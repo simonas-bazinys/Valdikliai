@@ -245,120 +245,16 @@ void InitializeTimerPWM(int brightness)
 int
 main(int argc, char* argv[])
 {
-	  // Show the program parameters (passed via semihosting).
-	  // Output is via the semihosting output channel.
-	  trace_dump_args(argc, argv);
+	  HAL_Init();
+	  initializeLED();
+	  initializeTimer();
 
-	  // Send a greeting to the trace device (skipped on Release).
-	  trace_puts("Hello Arm World!");
-
-	  // Send a message to the standard output.
-	  puts("Standard output message.");
-
-	  // Send a message to the standard error.
-	  fprintf(stderr, "Standard error message.\n");
-
-	  // At this stage the system clock should have already been configured
-	  // at high speed.
-	  trace_printf("System clock: %u Hz\n", SystemCoreClock);
-
-	  timer timer;
-	  timer.start ();
-
-	  // Perform all necessary initialisations for the LEDs.
-	  for (size_t i = 0; i < (sizeof(blinkLeds) / sizeof(blinkLeds[0])); ++i)
-	    {
-	      blinkLeds[i].power_up ();
-	    }
-
-	  uint32_t seconds = 0;
-
-	#define LOOP_COUNT (1 << (sizeof(blinkLeds) / sizeof(blinkLeds[0])))
-
-	  int loops = LOOP_COUNT > 2 ? LOOP_COUNT : (5);
-	  if (argc > 1)
-	    {
-	      // If defined, get the number of loops from the command line,
-	      // configurable via semihosting.
-	      loops = atoi (argv[1]);
-	      if (loops < LOOP_COUNT)
-	        {
-	          loops = LOOP_COUNT;
-	        }
-	    }
-
-	  for (size_t i = 0; i < (sizeof(blinkLeds) / sizeof(blinkLeds[0])); ++i)
-	    {
-	      blinkLeds[i].turn_on ();
-	    }
-
-	  // First second is long.
-	  timer.sleep (timer::FREQUENCY_HZ);
-
-	  for (size_t i = 0; i < (sizeof(blinkLeds) / sizeof(blinkLeds[0])); ++i)
-	    {
-	      blinkLeds[i].turn_off ();
-	    }
-
-	  timer.sleep (BLINK_OFF_TICKS);
-
-	  ++seconds;
-	  trace_printf ("Second %u\n", seconds);
-
-	  if ((sizeof(blinkLeds) / sizeof(blinkLeds[0])) > 1)
-	    {
-	      // Blink individual LEDs.
-	      for (size_t i = 0; i < (sizeof(blinkLeds) / sizeof(blinkLeds[0])); ++i)
-	        {
-	          blinkLeds[i].turn_on ();
-	          timer.sleep (BLINK_ON_TICKS);
-
-	          blinkLeds[i].turn_off ();
-	          timer.sleep (BLINK_OFF_TICKS);
-
-	          ++seconds;
-	          trace_printf ("Second %u\n", seconds);
-	        }
-
-	      // Blink binary.
-	      for (int i = 0; i < loops; i++)
-	        {
-	          for (size_t l = 0; l < (sizeof(blinkLeds) / sizeof(blinkLeds[0]));
-	              ++l)
-	            {
-	              blinkLeds[l].toggle ();
-	              if (blinkLeds[l].isOn ())
-	                {
-	                  break;
-	                }
-	            }
-	          timer.sleep (timer::FREQUENCY_HZ);
-
-	          ++seconds;
-	          trace_printf ("Second %u\n", seconds);
-	        }
-	    }
-	  else
-	    {
-	      for (int i = 0; i < loops; i++)
-	        {
-	          blinkLeds[0].turn_on ();
-	          timer.sleep (BLINK_ON_TICKS);
-
-	          blinkLeds[0].turn_off ();
-	          timer.sleep (BLINK_OFF_TICKS);
-
-	          ++seconds;
-	          trace_printf ("Second %u\n", seconds);
-	        }
-	    }
-
-	  for (size_t i = 0; i < (sizeof(blinkLeds) / sizeof(blinkLeds[0])); ++i)
-	    {
-	      blinkLeds[i].turn_on ();
-	    }
-
-	  timer.sleep (timer::FREQUENCY_HZ);
+	  for (;;)
+	  {
+		  int timerValue = __HAL_TIM_GET_COUNTER(&s_TimerInstance);
+		  if (timerValue == 100) HAL_GPIO_WritePin(GPIOD, GPIO_PIN_13, GPIO_PIN_SET);
+		  if (timerValue == 200) HAL_GPIO_WritePin(GPIOD, GPIO_PIN_13, GPIO_PIN_RESET);
+	  }
 
 	  return 0;}
 

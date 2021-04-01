@@ -6,8 +6,6 @@ c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
-c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atoi.o)
-                              ./src/main.o (atoi)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-ctype_.o)
                               ./system/src/newlib/syscalls.o (_ctype_)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
@@ -16,8 +14,6 @@ c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-
                               ./system/src/newlib/syscalls.o (__sinit)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o) (_fwalk)
-c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o)
-                              ./src/main.o (fwrite)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o) (_global_impure_ptr)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
@@ -26,8 +22,6 @@ c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-
                               ./system/src/newlib/syscalls.o (memset)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o) (_malloc_r)
-c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-puts.o)
-                              ./src/main.o (puts)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
@@ -38,38 +32,26 @@ c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-
                               ./system/src/newlib/syscalls.o (strlen)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strncpy.o)
                               ./system/src/newlib/syscalls.o (strncpy)
-c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
-                              c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atoi.o) (_strtol_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
                               ./system/src/diag/trace.o (vsnprintf)
-c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wbuf.o)
-                              c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o) (__swbuf_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o) (_write_r)
-c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wsetup.o)
-                              c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o) (__swsetup_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o) (_close_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o) (_fflush_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o) (_lseek_r)
-c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o)
-                              c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
-                              c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wsetup.o) (_free_r)
+                              c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o) (_free_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o) (_svfprintf_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o) (_read_r)
-c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fstatr.o)
-                              c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o) (_fstat_r)
-c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-isattyr.o)
-                              c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o) (_isatty_r)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memchr.o)
                               c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o) (memchr)
 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
@@ -1048,8 +1030,6 @@ Discarded input sections
                 0x0000000000000000      0x184 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .text.HAL_GPIO_ReadPin
                 0x0000000000000000       0x28 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
- .text.HAL_GPIO_WritePin
-                0x0000000000000000       0x38 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .text.HAL_GPIO_TogglePin
                 0x0000000000000000       0x2c ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .text.HAL_GPIO_LockPin
@@ -1778,22 +1758,16 @@ Discarded input sections
                 0x0000000000000000       0x36 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.TIM_ITRx_SetConfig
                 0x0000000000000000       0x10 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .rodata.TIM_OC1_SetConfig.str1.4
-                0x0000000000000000       0x2e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.TIM_OC1_SetConfig
                 0x0000000000000000       0xb4 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.TIM_OC3_SetConfig
                 0x0000000000000000       0xbc ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.TIM_OC4_SetConfig
                 0x0000000000000000       0x74 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .text.HAL_TIM_Base_MspInit
-                0x0000000000000000        0x2 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.HAL_TIM_Base_MspDeInit
                 0x0000000000000000        0x2 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.HAL_TIM_Base_DeInit
                 0x0000000000000000       0xbc ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .text.HAL_TIM_Base_Start
-                0x0000000000000000       0xa8 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.HAL_TIM_Base_Stop
                 0x0000000000000000       0xb4 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.HAL_TIM_Base_Start_IT
@@ -1900,10 +1874,6 @@ Discarded input sections
                 0x0000000000000000        0x6 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.HAL_TIM_Encoder_GetState
                 0x0000000000000000        0x6 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .text.TIM_Base_SetConfig
-                0x0000000000000000       0xc8 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .text.HAL_TIM_Base_Init
-                0x0000000000000000      0x108 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.HAL_TIM_OC_Init
                 0x0000000000000000      0x108 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.HAL_TIM_PWM_Init
@@ -1996,13 +1966,6 @@ Discarded input sections
                 0x0000000000000000      0x1ac ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .text.HAL_TIM_Encoder_Stop_DMA
                 0x0000000000000000       0xe4 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .debug_info    0x0000000000000000     0x4c37 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .debug_abbrev  0x0000000000000000      0x22e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .debug_loc     0x0000000000000000     0x2d8e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .debug_aranges
-                0x0000000000000000      0x3a8 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .debug_ranges  0x0000000000000000      0x398 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .debug_macro   0x0000000000000000      0x3ed ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .debug_macro   0x0000000000000000      0xa84 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .debug_macro   0x0000000000000000      0x3a2 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .debug_macro   0x0000000000000000       0x2e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
@@ -2079,12 +2042,6 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x6e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .debug_macro   0x0000000000000000      0x1e9 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .debug_macro   0x0000000000000000      0x12d ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .debug_line    0x0000000000000000     0x5bf6 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .debug_str     0x0000000000000000    0xef517 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .comment       0x0000000000000000       0x45 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .debug_frame   0x0000000000000000      0xb14 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
- .ARM.attributes
-                0x0000000000000000       0x2e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .group         0x0000000000000000        0xc ./system/src/newlib/assert.o
  .group         0x0000000000000000        0xc ./system/src/newlib/assert.o
  .group         0x0000000000000000        0xc ./system/src/newlib/assert.o
@@ -2541,8 +2498,30 @@ Discarded input sections
  .data          0x0000000000000000        0x0 ./system/src/newlib/syscalls.o
  .bss           0x0000000000000000        0x0 ./system/src/newlib/syscalls.o
  .text.newslot  0x0000000000000000       0x28 ./system/src/newlib/syscalls.o
+ .text.get_errno
+                0x0000000000000000       0x12 ./system/src/newlib/syscalls.o
+ .text.error    0x0000000000000000       0x14 ./system/src/newlib/syscalls.o
+ .text.checkerror
+                0x0000000000000000       0x10 ./system/src/newlib/syscalls.o
+ .text.findslot
+                0x0000000000000000       0x3c ./system/src/newlib/syscalls.o
  .text._kill    0x0000000000000000       0x10 ./system/src/newlib/syscalls.o
+ .text._swiread
+                0x0000000000000000       0x20 ./system/src/newlib/syscalls.o
+ .text._read    0x0000000000000000       0x36 ./system/src/newlib/syscalls.o
+ .text._swilseek
+                0x0000000000000000       0x96 ./system/src/newlib/syscalls.o
+ .text._lseek   0x0000000000000000        0x8 ./system/src/newlib/syscalls.o
+ .text._swiwrite
+                0x0000000000000000       0x20 ./system/src/newlib/syscalls.o
+ .text._write   0x0000000000000000       0x46 ./system/src/newlib/syscalls.o
+ .text._swiclose
+                0x0000000000000000       0x1c ./system/src/newlib/syscalls.o
+ .text._close   0x0000000000000000       0x48 ./system/src/newlib/syscalls.o
  .text._getpid  0x0000000000000000        0x4 ./system/src/newlib/syscalls.o
+ .text._swistat
+                0x0000000000000000       0x44 ./system/src/newlib/syscalls.o
+ .text._fstat   0x0000000000000000       0x1a ./system/src/newlib/syscalls.o
  .text._stat    0x0000000000000000       0x3e ./system/src/newlib/syscalls.o
  .text._swiopen
                 0x0000000000000000       0xb0 ./system/src/newlib/syscalls.o
@@ -2553,6 +2532,7 @@ Discarded input sections
                 0x0000000000000000       0x28 ./system/src/newlib/syscalls.o
  .text._clock   0x0000000000000000       0x12 ./system/src/newlib/syscalls.o
  .text._times   0x0000000000000000       0x16 ./system/src/newlib/syscalls.o
+ .text._isatty  0x0000000000000000       0x36 ./system/src/newlib/syscalls.o
  .text._system  0x0000000000000000       0x3e ./system/src/newlib/syscalls.o
  .text._rename  0x0000000000000000       0x36 ./system/src/newlib/syscalls.o
  .text.mkdir    0x0000000000000000       0x10 ./system/src/newlib/syscalls.o
@@ -2832,8 +2812,16 @@ Discarded input sections
  .text          0x0000000000000000        0x0 ./system/src/diag/trace.o
  .data          0x0000000000000000        0x0 ./system/src/diag/trace.o
  .bss           0x0000000000000000        0x0 ./system/src/diag/trace.o
+ .rodata.trace_puts.str1.4
+                0x0000000000000000        0x2 ./system/src/diag/trace.o
+ .text.trace_puts
+                0x0000000000000000       0x20 ./system/src/diag/trace.o
  .text.trace_putchar
                 0x0000000000000000       0x16 ./system/src/diag/trace.o
+ .rodata.trace_dump_args.str1.4
+                0x0000000000000000       0x29 ./system/src/diag/trace.o
+ .text.trace_dump_args
+                0x0000000000000000       0x48 ./system/src/diag/trace.o
  .debug_macro   0x0000000000000000      0xa84 ./system/src/diag/trace.o
  .debug_macro   0x0000000000000000       0x22 ./system/src/diag/trace.o
  .debug_macro   0x0000000000000000       0x64 ./system/src/diag/trace.o
@@ -3845,6 +3833,16 @@ Discarded input sections
  .text          0x0000000000000000        0x0 ./src/led.o
  .data          0x0000000000000000        0x0 ./src/led.o
  .bss           0x0000000000000000        0x0 ./src/led.o
+ .text._ZN3led7turn_onEv
+                0x0000000000000000       0x2c ./src/led.o
+ .text._ZN3led8turn_offEv
+                0x0000000000000000       0x2c ./src/led.o
+ .text._ZN3led8power_upEv
+                0x0000000000000000       0x40 ./src/led.o
+ .text._ZN3led6toggleEv
+                0x0000000000000000       0x24 ./src/led.o
+ .text._ZN3led4isOnEv
+                0x0000000000000000       0x34 ./src/led.o
  .debug_macro   0x0000000000000000      0xb26 ./src/led.o
  .debug_macro   0x0000000000000000       0x2e ./src/led.o
  .debug_macro   0x0000000000000000       0x2f ./src/led.o
@@ -4038,18 +4036,12 @@ Discarded input sections
  .bss           0x0000000000000000        0x0 ./src/main.o
  .text._Z15SysTick_Handlerv
                 0x0000000000000000        0xc ./src/main.o
- .text._Z15initializeTimerv
-                0x0000000000000000       0x44 ./src/main.o
- .text._Z13initializeLEDv
-                0x0000000000000000       0x44 ./src/main.o
  .text._Z14initializeLED2v
                 0x0000000000000000       0x44 ./src/main.o
  .text._Z16initializeButtonv
                 0x0000000000000000       0x40 ./src/main.o
  .text._Z18InitializeTimerPWMi
                 0x0000000000000000       0x38 ./src/main.o
- .data._ZL15s_TimerInstance
-                0x0000000000000000       0x40 ./src/main.o
  .debug_macro   0x0000000000000000      0xb26 ./src/main.o
  .debug_macro   0x0000000000000000       0x22 ./src/main.o
  .debug_macro   0x0000000000000000       0x64 ./src/main.o
@@ -4402,6 +4394,10 @@ Discarded input sections
  .text          0x0000000000000000        0x0 ./src/timer.o
  .data          0x0000000000000000        0x0 ./src/timer.o
  .bss           0x0000000000000000        0x0 ./src/timer.o
+ .text._ZN5timer5startEv
+                0x0000000000000000       0x38 ./src/timer.o
+ .text._ZN5timer5sleepEm
+                0x0000000000000000       0x14 ./src/timer.o
  .debug_macro   0x0000000000000000      0xb26 ./src/timer.o
  .debug_macro   0x0000000000000000       0x2e ./src/timer.o
  .debug_macro   0x0000000000000000       0x2f ./src/timer.o
@@ -4503,10 +4499,6 @@ Discarded input sections
                 0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
- .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atoi.o)
- .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atoi.o)
- .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atoi.o)
- .text._atoi_r  0x0000000000000000        0x8 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atoi.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-ctype_.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-ctype_.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-ctype_.o)
@@ -4516,12 +4508,27 @@ Discarded input sections
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .text.std      0x0000000000000000       0x48 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000000000000        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
  .text.__fp_lock
                 0x0000000000000000       0x18 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
  .text.__fp_unlock
                 0x0000000000000000       0x18 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000000000       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
  .text._cleanup
                 0x0000000000000000        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit  0x0000000000000000       0x70 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp    0x0000000000000000       0x8c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
  .text.__fp_lock_all
                 0x0000000000000000       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
  .text.__fp_unlock_all
@@ -4530,16 +4537,22 @@ Discarded input sections
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
  .text._fwalk   0x0000000000000000       0x3a c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
- .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o)
- .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o)
- .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o)
+ .text._fwalk_reent
+                0x0000000000000000       0x3e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000000       0x54 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
  .text.__retarget_lock_init
+                0x0000000000000000        0x2 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
                 0x0000000000000000        0x2 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
  .text.__retarget_lock_close
                 0x0000000000000000        0x2 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
@@ -4563,29 +4576,46 @@ Discarded input sections
                 0x0000000000000000        0x1 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
  .bss.__lock___env_recursive_mutex
                 0x0000000000000000        0x1 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000000000000        0x1 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
  .bss.__lock___tz_mutex
                 0x0000000000000000        0x1 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
- .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-puts.o)
- .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-puts.o)
- .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-puts.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
+ .text.__sread  0x0000000000000000       0x22 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
  .text.__seofread
                 0x0000000000000000        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
+ .text.__swrite
+                0x0000000000000000       0x38 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
+ .text.__sseek  0x0000000000000000       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
+ .text.__sclose
+                0x0000000000000000        0x8 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000000000       0x88 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+ .text          0x0000000000000000       0x10 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strlen.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strlen.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000000       0x17 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strlen.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strncpy.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strncpy.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strncpy.o)
@@ -4593,39 +4623,44 @@ Discarded input sections
  .debug_frame   0x0000000000000000       0x28 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strncpy.o)
  .ARM.attributes
                 0x0000000000000000       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strncpy.o)
- .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
- .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
- .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
- .text._strtol_r
-                0x0000000000000000        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
- .text.strtol_l
-                0x0000000000000000       0x14 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
- .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wbuf.o)
- .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wbuf.o)
- .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wbuf.o)
- .text.__swbuf  0x0000000000000000       0x10 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wbuf.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
- .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wsetup.o)
- .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wsetup.o)
- .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wsetup.o)
+ .text._write_r
+                0x0000000000000000       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000000       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
+ .text._close_r
+                0x0000000000000000       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x0000000000000000       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x0000000000000000      0x104 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
+ .text._fflush_r
+                0x0000000000000000       0x78 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
  .text.fflush   0x0000000000000000       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000000000       0x5c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
- .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o)
- .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o)
- .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o)
+ .text._lseek_r
+                0x0000000000000000       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000000       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
@@ -4643,12 +4678,10 @@ Discarded input sections
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
- .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fstatr.o)
- .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fstatr.o)
- .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fstatr.o)
- .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-isattyr.o)
- .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-isattyr.o)
- .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-isattyr.o)
+ .text._read_r  0x0000000000000000       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000000000       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
  .data          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memchr.o)
  .bss           0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memchr.o)
  .text          0x0000000000000000        0x0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
@@ -4727,7 +4760,7 @@ END GROUP
                 0x000000002001fc00                __Main_Stack_Limit = (__stack - __Main_Stack_Size)
                 [!provide]                        PROVIDE (_Main_Stack_Limit = __Main_Stack_Limit)
                 0x0000000000000100                _Minimum_Stack_Size = 0x100
-                0x0000000020000280                PROVIDE (_Heap_Begin = _end_noinit)
+                0x00000000200002c0                PROVIDE (_Heap_Begin = _end_noinit)
                 0x000000002001fc00                PROVIDE (_Heap_Limit = (__stack - __Main_Stack_Size))
 
 .isr_vector     0x0000000008000000      0x3e8
@@ -4843,16 +4876,16 @@ END GROUP
 
 .inits          0x00000000080003e8       0x2c
                 0x00000000080003e8                __data_regions_array_start = .
-                0x00000000080003e8        0x4 LONG 0x80037c8 LOADADDR (.data)
+                0x00000000080003e8        0x4 LONG 0x8002af8 LOADADDR (.data)
                 0x00000000080003ec        0x4 LONG 0x20000000 ADDR (.data)
-                0x00000000080003f0        0x4 LONG 0x20000078 (ADDR (.data) + SIZEOF (.data))
-                0x00000000080003f4        0x4 LONG 0x80037c8 LOADADDR (.data_CCMRAM)
+                0x00000000080003f0        0x4 LONG 0x200000b8 (ADDR (.data) + SIZEOF (.data))
+                0x00000000080003f4        0x4 LONG 0x8002af8 LOADADDR (.data_CCMRAM)
                 0x00000000080003f8        0x4 LONG 0x10000000 ADDR (.data_CCMRAM)
                 0x00000000080003fc        0x4 LONG 0x10000000 (ADDR (.data_CCMRAM) + SIZEOF (.data_CCMRAM))
                 0x0000000008000400                __data_regions_array_end = .
                 0x0000000008000400                __bss_regions_array_start = .
-                0x0000000008000400        0x4 LONG 0x20000078 ADDR (.bss)
-                0x0000000008000404        0x4 LONG 0x20000280 (ADDR (.bss) + SIZEOF (.bss))
+                0x0000000008000400        0x4 LONG 0x200000b8 ADDR (.bss)
+                0x0000000008000404        0x4 LONG 0x200002c0 (ADDR (.bss) + SIZEOF (.bss))
                 0x0000000008000408        0x4 LONG 0x10000000 ADDR (.bss_CCMRAM)
                 0x000000000800040c        0x4 LONG 0x10000000 (ADDR (.bss_CCMRAM) + SIZEOF (.bss_CCMRAM))
                 0x0000000008000410                __bss_regions_array_end = .
@@ -4879,7 +4912,7 @@ END GROUP
 .flashtext
  *(.flashtext .flashtext.*)
 
-.text           0x0000000008000420     0x339f
+.text           0x0000000008000420     0x26cf
  *(.text .text.*)
  .text.HAL_InitTick
                 0x0000000008000420       0x4c ./system/src/stm32f4-hal/stm32f4xx_hal.o
@@ -4908,400 +4941,253 @@ END GROUP
  .text.HAL_GPIO_Init
                 0x00000000080005f0      0x2f4 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
                 0x00000000080005f0                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x00000000080008e4       0x38 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
+                0x00000000080008e4                HAL_GPIO_WritePin
  .text.HAL_RCC_OscConfig
-                0x00000000080008e4      0x4f0 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
-                0x00000000080008e4                HAL_RCC_OscConfig
+                0x000000000800091c      0x4f0 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
+                0x000000000800091c                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x0000000008000dd4       0xd4 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
-                0x0000000008000dd4                HAL_RCC_GetSysClockFreq
+                0x0000000008000e0c       0xd4 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
+                0x0000000008000e0c                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x0000000008000ea8      0x21c ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
-                0x0000000008000ea8                HAL_RCC_ClockConfig
+                0x0000000008000ee0      0x21c ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
+                0x0000000008000ee0                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetHCLKFreq
-                0x00000000080010c4        0xc ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
-                0x00000000080010c4                HAL_RCC_GetHCLKFreq
- .text._sbrk    0x00000000080010d0       0x44 ./system/src/newlib/sbrk.o
-                0x00000000080010d0                _sbrk
- .text.get_errno
-                0x0000000008001114       0x12 ./system/src/newlib/syscalls.o
- .text.error    0x0000000008001126       0x14 ./system/src/newlib/syscalls.o
- .text.checkerror
-                0x000000000800113a       0x10 ./system/src/newlib/syscalls.o
- *fill*         0x000000000800114a        0x2 
- .text.findslot
-                0x000000000800114c       0x3c ./system/src/newlib/syscalls.o
- .text._exit    0x0000000008001188       0x20 ./system/src/newlib/syscalls.o
-                0x0000000008001188                _exit
+                0x00000000080010fc        0xc ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
+                0x00000000080010fc                HAL_RCC_GetHCLKFreq
+ .text.HAL_TIM_Base_MspInit
+                0x0000000008001108        0x2 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+                0x0000000008001108                HAL_TIM_Base_MspInit
+ *fill*         0x000000000800110a        0x2 
+ .text.HAL_TIM_Base_Start
+                0x000000000800110c       0xa8 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+                0x000000000800110c                HAL_TIM_Base_Start
+ .text.TIM_Base_SetConfig
+                0x00000000080011b4       0xc8 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+                0x00000000080011b4                TIM_Base_SetConfig
+ .text.HAL_TIM_Base_Init
+                0x000000000800127c      0x108 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+                0x000000000800127c                HAL_TIM_Base_Init
+ .text._sbrk    0x0000000008001384       0x44 ./system/src/newlib/sbrk.o
+                0x0000000008001384                _sbrk
+ .text._exit    0x00000000080013c8       0x20 ./system/src/newlib/syscalls.o
+                0x00000000080013c8                _exit
  .text.initialise_monitor_handles
-                0x00000000080011a8       0xa8 ./system/src/newlib/syscalls.o
-                0x00000000080011a8                initialise_monitor_handles
+                0x00000000080013e8       0xa8 ./system/src/newlib/syscalls.o
+                0x00000000080013e8                initialise_monitor_handles
  .text.__initialize_args
-                0x0000000008001250       0xc0 ./system/src/newlib/syscalls.o
-                0x0000000008001250                __initialize_args
- .text._swiread
-                0x0000000008001310       0x20 ./system/src/newlib/syscalls.o
-                0x0000000008001310                _swiread
- .text._read    0x0000000008001330       0x36 ./system/src/newlib/syscalls.o
-                0x0000000008001330                _read
- .text._swilseek
-                0x0000000008001366       0x96 ./system/src/newlib/syscalls.o
-                0x0000000008001366                _swilseek
- .text._lseek   0x00000000080013fc        0x8 ./system/src/newlib/syscalls.o
-                0x00000000080013fc                _lseek
- .text._swiwrite
-                0x0000000008001404       0x20 ./system/src/newlib/syscalls.o
-                0x0000000008001404                _swiwrite
- .text._write   0x0000000008001424       0x46 ./system/src/newlib/syscalls.o
-                0x0000000008001424                _write
- .text._swiclose
-                0x000000000800146a       0x1c ./system/src/newlib/syscalls.o
-                0x000000000800146a                _swiclose
- *fill*         0x0000000008001486        0x2 
- .text._close   0x0000000008001488       0x48 ./system/src/newlib/syscalls.o
-                0x0000000008001488                _close
- .text._swistat
-                0x00000000080014d0       0x44 ./system/src/newlib/syscalls.o
-                0x00000000080014d0                _swistat
- .text._fstat   0x0000000008001514       0x1a ./system/src/newlib/syscalls.o
-                0x0000000008001514                _fstat
- .text._isatty  0x000000000800152e       0x36 ./system/src/newlib/syscalls.o
-                0x000000000800152e                _isatty
+                0x0000000008001490       0xc0 ./system/src/newlib/syscalls.o
+                0x0000000008001490                __initialize_args
  .text._trace_write_semihosting_debug
-                0x0000000008001564       0x60 ./system/src/diag/trace-impl.o
+                0x0000000008001550       0x60 ./system/src/diag/trace-impl.o
  .text.trace_write
-                0x00000000080015c4        0x8 ./system/src/diag/trace-impl.o
-                0x00000000080015c4                trace_write
+                0x00000000080015b0        0x8 ./system/src/diag/trace-impl.o
+                0x00000000080015b0                trace_write
  .text.trace_printf
-                0x00000000080015cc       0x34 ./system/src/diag/trace.o
-                0x00000000080015cc                trace_printf
- .text.trace_puts
-                0x0000000008001600       0x20 ./system/src/diag/trace.o
-                0x0000000008001600                trace_puts
- .text.trace_dump_args
-                0x0000000008001620       0x48 ./system/src/diag/trace.o
-                0x0000000008001620                trace_dump_args
+                0x00000000080015b8       0x34 ./system/src/diag/trace.o
+                0x00000000080015b8                trace_printf
  .text.dumpExceptionStack
-                0x0000000008001668       0xf4 ./system/src/cortexm/exception-handlers.o
-                0x0000000008001668                dumpExceptionStack
+                0x00000000080015ec       0xf4 ./system/src/cortexm/exception-handlers.o
+                0x00000000080015ec                dumpExceptionStack
  .text.isSemihosting
-                0x000000000800175c      0x100 ./system/src/cortexm/exception-handlers.o
-                0x000000000800175c                isSemihosting
+                0x00000000080016e0      0x100 ./system/src/cortexm/exception-handlers.o
+                0x00000000080016e0                isSemihosting
  .text.__initialize_hardware_early
-                0x000000000800185c       0x18 ./system/src/cortexm/initialize-hardware.o
-                0x000000000800185c                __initialize_hardware_early
+                0x00000000080017e0       0x18 ./system/src/cortexm/initialize-hardware.o
+                0x00000000080017e0                __initialize_hardware_early
  .text.SystemInit
-                0x0000000008001874       0x10 ./system/src/cmsis/system_stm32f4xx.o
-                0x0000000008001874                SystemInit
+                0x00000000080017f8       0x10 ./system/src/cmsis/system_stm32f4xx.o
+                0x00000000080017f8                SystemInit
  .text.SystemCoreClockUpdate
-                0x0000000008001884       0xa0 ./system/src/cmsis/system_stm32f4xx.o
-                0x0000000008001884                SystemCoreClockUpdate
+                0x0000000008001808       0xa0 ./system/src/cmsis/system_stm32f4xx.o
+                0x0000000008001808                SystemCoreClockUpdate
  .text.SystemClock_Config
-                0x0000000008001924       0xa0 ./src/initialize-hardware.o
-                0x0000000008001924                SystemClock_Config
+                0x00000000080018a8       0xa0 ./src/initialize-hardware.o
+                0x00000000080018a8                SystemClock_Config
  .text.__initialize_hardware
-                0x00000000080019c4       0x10 ./src/initialize-hardware.o
-                0x00000000080019c4                __initialize_hardware
+                0x0000000008001948       0x10 ./src/initialize-hardware.o
+                0x0000000008001948                __initialize_hardware
  .text.assert_failed
-                0x00000000080019d4       0x14 ./src/initialize-hardware.o
-                0x00000000080019d4                assert_failed
+                0x0000000008001958       0x14 ./src/initialize-hardware.o
+                0x0000000008001958                assert_failed
  .text._ZN3ledC2Ejjb
-                0x00000000080019e8       0x10 ./src/led.o
-                0x00000000080019e8                led::led(unsigned int, unsigned int, bool)
-                0x00000000080019e8                led::led(unsigned int, unsigned int, bool)
- .text._ZN3led7turn_onEv
-                0x00000000080019f8       0x2c ./src/led.o
-                0x00000000080019f8                led::turn_on()
- .text._ZN3led8turn_offEv
-                0x0000000008001a24       0x2c ./src/led.o
-                0x0000000008001a24                led::turn_off()
- .text._ZN3led8power_upEv
-                0x0000000008001a50       0x40 ./src/led.o
-                0x0000000008001a50                led::power_up()
- .text._ZN3led6toggleEv
-                0x0000000008001a90       0x24 ./src/led.o
-                0x0000000008001a90                led::toggle()
- .text._ZN3led4isOnEv
-                0x0000000008001ab4       0x34 ./src/led.o
-                0x0000000008001ab4                led::isOn()
+                0x000000000800196c       0x10 ./src/led.o
+                0x000000000800196c                led::led(unsigned int, unsigned int, bool)
+                0x000000000800196c                led::led(unsigned int, unsigned int, bool)
  .text._Z41__static_initialization_and_destruction_0ii
-                0x0000000008001ae8       0x50 ./src/main.o
- .text.main     0x0000000008001b38      0x15c ./src/main.o
-                0x0000000008001b38                main
+                0x000000000800197c       0x50 ./src/main.o
+ .text._Z15initializeTimerv
+                0x00000000080019cc       0x44 ./src/main.o
+                0x00000000080019cc                initializeTimer()
+ .text._Z13initializeLEDv
+                0x0000000008001a10       0x44 ./src/main.o
+                0x0000000008001a10                initializeLED()
+ .text.main     0x0000000008001a54       0x40 ./src/main.o
+                0x0000000008001a54                main
  .text._GLOBAL__sub_I_blinkLeds
-                0x0000000008001c94        0xe ./src/main.o
+                0x0000000008001a94        0xe ./src/main.o
  .text.HAL_MspInit
-                0x0000000008001ca2        0x2 ./src/stm32f4xx_hal_msp.o
-                0x0000000008001ca2                HAL_MspInit
- .text._ZN5timer5startEv
-                0x0000000008001ca4       0x38 ./src/timer.o
-                0x0000000008001ca4                timer::start()
- .text._ZN5timer5sleepEm
-                0x0000000008001cdc       0x14 ./src/timer.o
-                0x0000000008001cdc                timer::sleep(unsigned long)
+                0x0000000008001aa2        0x2 ./src/stm32f4xx_hal_msp.o
+                0x0000000008001aa2                HAL_MspInit
  .text._ZN5timer4tickEv
-                0x0000000008001cf0       0x14 ./src/timer.o
-                0x0000000008001cf0                timer::tick()
+                0x0000000008001aa4       0x14 ./src/timer.o
+                0x0000000008001aa4                timer::tick()
  .text.SysTick_Handler
-                0x0000000008001d04        0xc ./src/timer.o
-                0x0000000008001d04                SysTick_Handler
- .text          0x0000000008001d10       0x30 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
-                0x0000000008001d10                __aeabi_uldivmod
+                0x0000000008001ab8        0xc ./src/timer.o
+                0x0000000008001ab8                SysTick_Handler
+ .text          0x0000000008001ac4       0x30 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x0000000008001ac4                __aeabi_uldivmod
  .text.__udivmoddi4
-                0x0000000008001d40      0x2d0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
-                0x0000000008001d40                __udivmoddi4
- .text          0x0000000008002010        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
-                0x0000000008002010                __aeabi_idiv0
-                0x0000000008002010                __aeabi_ldiv0
- .text.atoi     0x0000000008002014        0x8 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atoi.o)
-                0x0000000008002014                atoi
- .text.__errno  0x000000000800201c        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
-                0x000000000800201c                __errno
- .text.std      0x0000000008002028       0x48 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
- .text._cleanup_r
-                0x0000000008002070        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x0000000008002070                _cleanup_r
- .text.__sfmoreglue
-                0x000000000800207c       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x000000000800207c                __sfmoreglue
- .text.__sfp_lock_acquire
-                0x00000000080020a8        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x00000000080020a8                __sfp_lock_acquire
- .text.__sfp_lock_release
-                0x00000000080020b4        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x00000000080020b4                __sfp_lock_release
- .text.__sinit_lock_acquire
-                0x00000000080020c0        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x00000000080020c0                __sinit_lock_acquire
- .text.__sinit_lock_release
-                0x00000000080020cc        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x00000000080020cc                __sinit_lock_release
- .text.__sinit  0x00000000080020d8       0x70 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x00000000080020d8                __sinit
- .text.__sfp    0x0000000008002148       0x8c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x0000000008002148                __sfp
- .text._fwalk_reent
-                0x00000000080021d4       0x3e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
-                0x00000000080021d4                _fwalk_reent
- *fill*         0x0000000008002212        0x2 
- .text._fwrite_r
-                0x0000000008002214       0xc0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o)
-                0x0000000008002214                _fwrite_r
- .text.fwrite   0x00000000080022d4       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o)
-                0x00000000080022d4                fwrite
- .text.__retarget_lock_init_recursive
-                0x00000000080022f0        0x2 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
-                0x00000000080022f0                __retarget_lock_init_recursive
+                0x0000000008001af4      0x2d0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x0000000008001af4                __udivmoddi4
+ .text          0x0000000008001dc4        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x0000000008001dc4                __aeabi_idiv0
+                0x0000000008001dc4                __aeabi_ldiv0
+ .text.__errno  0x0000000008001dc8        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+                0x0000000008001dc8                __errno
  .text.__retarget_lock_acquire_recursive
-                0x00000000080022f2        0x2 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
-                0x00000000080022f2                __retarget_lock_acquire_recursive
+                0x0000000008001dd4        0x2 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+                0x0000000008001dd4                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x00000000080022f4        0x2 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
-                0x00000000080022f4                __retarget_lock_release_recursive
- .text.memset   0x00000000080022f6       0x10 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
-                0x00000000080022f6                memset
- *fill*         0x0000000008002306        0x2 
+                0x0000000008001dd6        0x2 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+                0x0000000008001dd6                __retarget_lock_release_recursive
  .text._malloc_r
-                0x0000000008002308       0xb4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
-                0x0000000008002308                _malloc_r
- .text._puts_r  0x00000000080023bc       0xdc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-puts.o)
-                0x00000000080023bc                _puts_r
- .text.puts     0x0000000008002498       0x10 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-puts.o)
-                0x0000000008002498                puts
- .text._sbrk_r  0x00000000080024a8       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
-                0x00000000080024a8                _sbrk_r
- .text.__sread  0x00000000080024c8       0x22 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
-                0x00000000080024c8                __sread
- .text.__swrite
-                0x00000000080024ea       0x38 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
-                0x00000000080024ea                __swrite
- .text.__sseek  0x0000000008002522       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
-                0x0000000008002522                __sseek
- .text.__sclose
-                0x0000000008002546        0x8 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
-                0x0000000008002546                __sclose
- .text          0x000000000800254e       0x14 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
-                0x000000000800254e                strcmp
- .text          0x0000000008002562       0x10 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strlen.o)
-                0x0000000008002562                strlen
- *fill*         0x0000000008002572        0x2 
- .text._strtol_l.constprop.0
-                0x0000000008002574       0xf8 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
- .text.strtol   0x000000000800266c       0x14 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
-                0x000000000800266c                strtol
+                0x0000000008001dd8       0xb4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000008001dd8                _malloc_r
+ .text._sbrk_r  0x0000000008001e8c       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
+                0x0000000008001e8c                _sbrk_r
+ .text          0x0000000008001eac       0x14 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+                0x0000000008001eac                strcmp
  .text._vsnprintf_r
-                0x0000000008002680       0x56 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
-                0x0000000008002680                _vsniprintf_r
-                0x0000000008002680                _vsnprintf_r
- *fill*         0x00000000080026d6        0x2 
+                0x0000000008001ec0       0x56 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
+                0x0000000008001ec0                _vsniprintf_r
+                0x0000000008001ec0                _vsnprintf_r
+ *fill*         0x0000000008001f16        0x2 
  .text.vsnprintf
-                0x00000000080026d8       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
-                0x00000000080026d8                vsniprintf
-                0x00000000080026d8                vsnprintf
- .text.__swbuf_r
-                0x00000000080026f4       0xa4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wbuf.o)
-                0x00000000080026f4                __swbuf_r
- .text._write_r
-                0x0000000008002798       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
-                0x0000000008002798                _write_r
- .text.__swsetup_r
-                0x00000000080027bc       0xdc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wsetup.o)
-                0x00000000080027bc                __swsetup_r
- .text._close_r
-                0x0000000008002898       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
-                0x0000000008002898                _close_r
- .text.__sflush_r
-                0x00000000080028b8      0x104 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
-                0x00000000080028b8                __sflush_r
- .text._fflush_r
-                0x00000000080029bc       0x78 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
-                0x00000000080029bc                _fflush_r
- .text._lseek_r
-                0x0000000008002a34       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
-                0x0000000008002a34                _lseek_r
- .text.__swhatbuf_r
-                0x0000000008002a58       0x4a c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o)
-                0x0000000008002a58                __swhatbuf_r
- *fill*         0x0000000008002aa2        0x2 
- .text.__smakebuf_r
-                0x0000000008002aa4       0x80 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o)
-                0x0000000008002aa4                __smakebuf_r
+                0x0000000008001f18       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
+                0x0000000008001f18                vsniprintf
+                0x0000000008001f18                vsnprintf
  .text.__malloc_lock
-                0x0000000008002b24        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
-                0x0000000008002b24                __malloc_lock
+                0x0000000008001f34        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
+                0x0000000008001f34                __malloc_lock
  .text.__malloc_unlock
-                0x0000000008002b30        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
-                0x0000000008002b30                __malloc_unlock
- .text._free_r  0x0000000008002b3c       0x94 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
-                0x0000000008002b3c                _free_r
+                0x0000000008001f40        0xc c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
+                0x0000000008001f40                __malloc_unlock
+ .text._free_r  0x0000000008001f4c       0x94 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
+                0x0000000008001f4c                _free_r
  .text.__ssputs_r
-                0x0000000008002bd0       0xb6 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
-                0x0000000008002bd0                __ssputs_r
- *fill*         0x0000000008002c86        0x2 
+                0x0000000008001fe0       0xb6 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x0000000008001fe0                __ssputs_r
+ *fill*         0x0000000008002096        0x2 
  .text._svfprintf_r
-                0x0000000008002c88      0x200 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
-                0x0000000008002c88                _svfiprintf_r
-                0x0000000008002c88                _svfprintf_r
+                0x0000000008002098      0x200 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x0000000008002098                _svfiprintf_r
+                0x0000000008002098                _svfprintf_r
  .text._printf_common
-                0x0000000008002e88       0xda c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
-                0x0000000008002e88                _printf_common
- *fill*         0x0000000008002f62        0x2 
+                0x0000000008002298       0xda c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008002298                _printf_common
+ *fill*         0x0000000008002372        0x2 
  .text._printf_i
-                0x0000000008002f64      0x24c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
-                0x0000000008002f64                _printf_i
- .text._read_r  0x00000000080031b0       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
-                0x00000000080031b0                _read_r
- .text._fstat_r
-                0x00000000080031d4       0x24 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fstatr.o)
-                0x00000000080031d4                _fstat_r
- .text._isatty_r
-                0x00000000080031f8       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-isattyr.o)
-                0x00000000080031f8                _isatty_r
- *fill*         0x0000000008003218        0x8 
- .text          0x0000000008003220       0xa0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memchr.o)
-                0x0000000008003220                memchr
- .text.memcpy   0x00000000080032c0       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
-                0x00000000080032c0                memcpy
- .text.memmove  0x00000000080032dc       0x34 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memmove.o)
-                0x00000000080032dc                memmove
+                0x0000000008002374      0x24c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008002374                _printf_i
+ .text          0x00000000080025c0       0xa0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memchr.o)
+                0x00000000080025c0                memchr
+ .text.memcpy   0x0000000008002660       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+                0x0000000008002660                memcpy
+ .text.memmove  0x000000000800267c       0x34 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memmove.o)
+                0x000000000800267c                memmove
  .text._realloc_r
-                0x0000000008003310       0x4c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-reallocr.o)
-                0x0000000008003310                _realloc_r
+                0x00000000080026b0       0x4c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-reallocr.o)
+                0x00000000080026b0                _realloc_r
  .text._malloc_usable_size_r
-                0x000000000800335c       0x10 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-msizer.o)
-                0x000000000800335c                _malloc_usable_size_r
+                0x00000000080026fc       0x10 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-msizer.o)
+                0x00000000080026fc                _malloc_usable_size_r
  *(.rodata .rodata.* .constdata .constdata.*)
  .rodata.HAL_NVIC_SetPriorityGrouping.str1.4
-                0x000000000800336c       0x31 ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
- *fill*         0x000000000800339d        0x3 
+                0x000000000800270c       0x31 ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
+ *fill*         0x000000000800273d        0x3 
  .rodata.HAL_GPIO_Init.str1.4
-                0x00000000080033a0       0x2f ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
- *fill*         0x00000000080033cf        0x1 
+                0x0000000008002740       0x2f ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
+ *fill*         0x000000000800276f        0x1 
  .rodata.HAL_RCC_OscConfig.str1.4
-                0x00000000080033d0       0x2e ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
- *fill*         0x00000000080033fe        0x2 
+                0x0000000008002770       0x2e ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
+ *fill*         0x000000000800279e        0x2 
+ .rodata.TIM_OC1_SetConfig.str1.4
+                0x00000000080027a0       0x2e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+ *fill*         0x00000000080027ce        0x2 
  .rodata.initialise_monitor_handles.str1.4
-                0x0000000008003400        0x4 ./system/src/newlib/syscalls.o
- .rodata.trace_puts.str1.4
-                0x0000000008003404        0x4 ./system/src/diag/trace.o
-                                          0x2 (size before relaxing)
- .rodata.trace_dump_args.str1.4
-                0x0000000008003404       0x29 ./system/src/diag/trace.o
- *fill*         0x000000000800342d        0x3 
+                0x00000000080027d0        0x4 ./system/src/newlib/syscalls.o
  .rodata.dumpExceptionStack.str1.4
-                0x0000000008003430      0x11a ./system/src/cortexm/exception-handlers.o
+                0x00000000080027d4      0x11a ./system/src/cortexm/exception-handlers.o
  .rodata.isSemihosting.str1.4
-                0x000000000800354a        0x4 ./system/src/cortexm/exception-handlers.o
- *fill*         0x000000000800354a        0x2 
+                0x00000000080028ee        0x4 ./system/src/cortexm/exception-handlers.o
+ *fill*         0x00000000080028ee        0x2 
  .rodata.str1.4
-                0x000000000800354c       0x2a ./system/src/cortexm/exception-handlers.o
- *fill*         0x0000000008003576        0x2 
+                0x00000000080028f0       0x2a ./system/src/cortexm/exception-handlers.o
+ *fill*         0x000000000800291a        0x2 
  .rodata.AHBPrescTable
-                0x0000000008003578       0x10 ./system/src/cmsis/system_stm32f4xx.o
-                0x0000000008003578                AHBPrescTable
+                0x000000000800291c       0x10 ./system/src/cmsis/system_stm32f4xx.o
+                0x000000000800291c                AHBPrescTable
  .rodata.assert_failed.str1.4
-                0x0000000008003588       0x2d ./src/initialize-hardware.o
- *fill*         0x00000000080035b5        0x3 
- .rodata.main.str1.4
-                0x00000000080035b8       0x6f ./src/main.o
+                0x000000000800292c       0x2d ./src/initialize-hardware.o
  .rodata._ctype_
-                0x0000000008003627      0x101 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-ctype_.o)
-                0x0000000008003627                _ctype_
+                0x0000000008002959      0x101 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-ctype_.o)
+                0x0000000008002959                _ctype_
+ *fill*         0x0000000008002a5a        0x2 
  .rodata.__sf_fake_stderr
-                0x0000000008003728       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x0000000008003728                __sf_fake_stderr
+                0x0000000008002a5c       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+                0x0000000008002a5c                __sf_fake_stderr
  .rodata.__sf_fake_stdin
-                0x0000000008003748       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x0000000008003748                __sf_fake_stdin
+                0x0000000008002a7c       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+                0x0000000008002a7c                __sf_fake_stdin
  .rodata.__sf_fake_stdout
-                0x0000000008003768       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
-                0x0000000008003768                __sf_fake_stdout
- .rodata._global_impure_ptr
-                0x0000000008003788        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
-                0x0000000008003788                _global_impure_ptr
+                0x0000000008002a9c       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+                0x0000000008002a9c                __sf_fake_stdout
  .rodata._svfprintf_r.str1.1
-                0x000000000800378c       0x11 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x0000000008002abc       0x11 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
  .rodata._printf_i.str1.1
-                0x000000000800379d       0x22 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000008002acd       0x22 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
  *(vtable)
  *(.eh_frame*)
  *(.glue_7)
- .glue_7        0x00000000080037bf        0x0 linker stubs
+ .glue_7        0x0000000008002aef        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x00000000080037bf        0x0 linker stubs
+ .glue_7t       0x0000000008002aef        0x0 linker stubs
 
-.vfp11_veneer   0x00000000080037c0        0x0
- .vfp11_veneer  0x00000000080037c0        0x0 linker stubs
+.vfp11_veneer   0x0000000008002af0        0x0
+ .vfp11_veneer  0x0000000008002af0        0x0 linker stubs
 
-.v4_bx          0x00000000080037c0        0x0
- .v4_bx         0x00000000080037c0        0x0 linker stubs
+.v4_bx          0x0000000008002af0        0x0
+ .v4_bx         0x0000000008002af0        0x0 linker stubs
 
-.iplt           0x00000000080037c0        0x0
- .iplt          0x00000000080037c0        0x0 ./system/src/stm32f4-hal/stm32f4xx_hal.o
+.iplt           0x0000000008002af0        0x0
+ .iplt          0x0000000008002af0        0x0 ./system/src/stm32f4-hal/stm32f4xx_hal.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x00000000080037c0                . = ALIGN (0x4)
-                0x00000000080037c0                __exidx_start = .
+                0x0000000008002af0                . = ALIGN (0x4)
+                0x0000000008002af0                __exidx_start = .
 
-.ARM.exidx      0x00000000080037c0        0x8
+.ARM.exidx      0x0000000008002af0        0x8
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
  .ARM.exidx.text.__udivmoddi4
-                0x00000000080037c0        0x8 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
-                0x00000000080037c8                __exidx_end = .
+                0x0000000008002af0        0x8 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x0000000008002af8                __exidx_end = .
 
-.rel.dyn        0x00000000080037c8        0x0
- .rel.iplt      0x00000000080037c8        0x0 ./system/src/stm32f4-hal/stm32f4xx_hal.o
-                0x00000000080037c8                . = ALIGN (0x4)
-                0x00000000080037c8                _etext = .
-                0x00000000080037c8                __etext = .
+.rel.dyn        0x0000000008002af8        0x0
+ .rel.iplt      0x0000000008002af8        0x0 ./system/src/stm32f4-hal/stm32f4xx_hal.o
+                0x0000000008002af8                . = ALIGN (0x4)
+                0x0000000008002af8                _etext = .
+                0x0000000008002af8                __etext = .
 
-.data_CCMRAM    0x0000000010000000        0x0 load address 0x00000000080037c8
+.data_CCMRAM    0x0000000010000000        0x0 load address 0x0000000008002af8
  FILL mask 0xff
  *(.data.CCMRAM .data.CCMRAM.*)
                 0x0000000010000000                . = ALIGN (0x4)
-                0x00000000080037c8                _sidata = LOADADDR (.data)
+                0x0000000008002af8                _sidata = LOADADDR (.data)
 
-.data           0x0000000020000000       0x78 load address 0x00000000080037c8
+.data           0x0000000020000000       0xb8 load address 0x0000000008002af8
  FILL mask 0xff
                 0x0000000020000000                _sdata = .
                 0x0000000020000000                __data_start__ = .
@@ -5318,93 +5204,89 @@ END GROUP
  .data.SystemCoreClock
                 0x000000002000000c        0x4 ./system/src/cmsis/system_stm32f4xx.o
                 0x000000002000000c                SystemCoreClock
+ .data._ZL15s_TimerInstance
+                0x0000000020000010       0x40 ./src/main.o
  .data._impure_ptr
-                0x0000000020000010        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
-                0x0000000020000010                _impure_ptr
+                0x0000000020000050        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                0x0000000020000050                _impure_ptr
  .data.impure_data
-                0x0000000020000014       0x60 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                0x0000000020000054       0x60 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
  *(.data_end .data_end.*)
- .data_end      0x0000000020000074        0x4 ./system/src/newlib/startup.o
-                0x0000000020000078                . = ALIGN (0x4)
-                0x0000000020000078                _edata = .
-                0x0000000020000078                __data_end__ = .
+ .data_end      0x00000000200000b4        0x4 ./system/src/newlib/startup.o
+                0x00000000200000b8                . = ALIGN (0x4)
+                0x00000000200000b8                _edata = .
+                0x00000000200000b8                __data_end__ = .
 
-.igot.plt       0x0000000020000078        0x0 load address 0x0000000008003840
- .igot.plt      0x0000000020000078        0x0 ./system/src/stm32f4-hal/stm32f4xx_hal.o
+.igot.plt       0x00000000200000b8        0x0 load address 0x0000000008002bb0
+ .igot.plt      0x00000000200000b8        0x0 ./system/src/stm32f4-hal/stm32f4xx_hal.o
 
 .bss_CCMRAM     0x0000000010000000        0x0
  *(.bss.CCMRAM .bss.CCMRAM.*)
 
-.bss            0x0000000020000078      0x208
-                0x0000000020000078                __bss_start__ = .
-                0x0000000020000078                _sbss = .
+.bss            0x00000000200000b8      0x208
+                0x00000000200000b8                __bss_start__ = .
+                0x00000000200000b8                _sbss = .
  *(.bss_begin .bss_begin.*)
- .bss_begin     0x0000000020000078        0x4 ./system/src/newlib/startup.o
+ .bss_begin     0x00000000200000b8        0x4 ./system/src/newlib/startup.o
  *(.bss .bss.*)
- .bss.uwTick    0x000000002000007c        0x4 ./system/src/stm32f4-hal/stm32f4xx_hal.o
-                0x000000002000007c                uwTick
+ .bss.uwTick    0x00000000200000bc        0x4 ./system/src/stm32f4-hal/stm32f4xx_hal.o
+                0x00000000200000bc                uwTick
  .bss.current_heap_end.0
-                0x0000000020000080        0x4 ./system/src/newlib/sbrk.o
+                0x00000000200000c0        0x4 ./system/src/newlib/sbrk.o
  .bss.args_buf.1
-                0x0000000020000084       0x50 ./system/src/newlib/syscalls.o
+                0x00000000200000c4       0x50 ./system/src/newlib/syscalls.o
  .bss.argv_buf.0
-                0x00000000200000d4       0x28 ./system/src/newlib/syscalls.o
- .bss.errno     0x00000000200000fc        0x4 ./system/src/newlib/syscalls.o
-                0x00000000200000fc                errno
+                0x0000000020000114       0x28 ./system/src/newlib/syscalls.o
+ .bss.errno     0x000000002000013c        0x4 ./system/src/newlib/syscalls.o
+                0x000000002000013c                errno
  .bss.monitor_stderr
-                0x0000000020000100        0x4 ./system/src/newlib/syscalls.o
+                0x0000000020000140        0x4 ./system/src/newlib/syscalls.o
  .bss.monitor_stdin
-                0x0000000020000104        0x4 ./system/src/newlib/syscalls.o
+                0x0000000020000144        0x4 ./system/src/newlib/syscalls.o
  .bss.monitor_stdout
-                0x0000000020000108        0x4 ./system/src/newlib/syscalls.o
+                0x0000000020000148        0x4 ./system/src/newlib/syscalls.o
  .bss.openfiles
-                0x000000002000010c       0xa0 ./system/src/newlib/syscalls.o
- .bss.buf.0     0x00000000200001ac       0x80 ./system/src/diag/trace.o
+                0x000000002000014c       0xa0 ./system/src/newlib/syscalls.o
+ .bss.buf.0     0x00000000200001ec       0x80 ./system/src/diag/trace.o
  .bss.blinkLeds
-                0x000000002000022c       0x40 ./src/main.o
-                0x000000002000022c                blinkLeds
+                0x000000002000026c       0x40 ./src/main.o
+                0x000000002000026c                blinkLeds
  .bss._ZN5timer13ms_delayCountE
-                0x000000002000026c        0x4 ./src/timer.o
-                0x000000002000026c                timer::ms_delayCount
+                0x00000000200002ac        0x4 ./src/timer.o
+                0x00000000200002ac                timer::ms_delayCount
  .bss.__lock___malloc_recursive_mutex
-                0x0000000020000270        0x1 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
-                0x0000000020000270                __lock___malloc_recursive_mutex
- .bss.__lock___sfp_recursive_mutex
-                0x0000000020000271        0x1 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
-                0x0000000020000271                __lock___sfp_recursive_mutex
- .bss.__lock___sinit_recursive_mutex
-                0x0000000020000272        0x1 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
-                0x0000000020000272                __lock___sinit_recursive_mutex
- *fill*         0x0000000020000273        0x1 
+                0x00000000200002b0        0x1 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+                0x00000000200002b0                __lock___malloc_recursive_mutex
+ *fill*         0x00000000200002b1        0x3 
  .bss.__malloc_free_list
-                0x0000000020000274        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
-                0x0000000020000274                __malloc_free_list
+                0x00000000200002b4        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200002b4                __malloc_free_list
  .bss.__malloc_sbrk_start
-                0x0000000020000278        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
-                0x0000000020000278                __malloc_sbrk_start
+                0x00000000200002b8        0x4 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200002b8                __malloc_sbrk_start
  *(COMMON)
  *(.bss_end .bss_end.*)
- .bss_end       0x000000002000027c        0x4 ./system/src/newlib/startup.o
-                0x0000000020000280                . = ALIGN (0x4)
-                0x0000000020000280                __bss_end__ = .
-                0x0000000020000280                _ebss = .
+ .bss_end       0x00000000200002bc        0x4 ./system/src/newlib/startup.o
+                0x00000000200002c0                . = ALIGN (0x4)
+                0x00000000200002c0                __bss_end__ = .
+                0x00000000200002c0                _ebss = .
 
 .noinit_CCMRAM
  *(.noinit.CCMRAM .noinit.CCMRAM.*)
 
-.noinit         0x0000000020000280        0x0
-                0x0000000020000280                _noinit = .
+.noinit         0x00000000200002c0        0x0
+                0x00000000200002c0                _noinit = .
  *(.noinit .noinit.*)
-                0x0000000020000280                . = ALIGN (0x4)
-                0x0000000020000280                _end_noinit = .
+                0x00000000200002c0                . = ALIGN (0x4)
+                0x00000000200002c0                _end_noinit = .
                 [!provide]                        PROVIDE (end = _end_noinit)
                 [!provide]                        PROVIDE (_end = _end_noinit)
                 [!provide]                        PROVIDE (__end = _end_noinit)
                 [!provide]                        PROVIDE (__end__ = _end_noinit)
 
-._check_stack   0x0000000020000280      0x100
-                0x0000000020000380                . = (. + _Minimum_Stack_Size)
- *fill*         0x0000000020000280      0x100 
+._check_stack   0x00000000200002c0      0x100
+                0x00000000200003c0                . = (. + _Minimum_Stack_Size)
+ *fill*         0x00000000200002c0      0x100 
 
 .b1text
  *(.b1text)
@@ -5456,6 +5338,7 @@ END GROUP
  .comment       0x0000000000000044       0x45 ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
  .comment       0x0000000000000044       0x45 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .comment       0x0000000000000044       0x45 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
+ .comment       0x0000000000000044       0x45 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .comment       0x0000000000000044       0x45 ./system/src/newlib/sbrk.o
  .comment       0x0000000000000044       0x45 ./system/src/newlib/startup.o
  .comment       0x0000000000000044       0x45 ./system/src/newlib/syscalls.o
@@ -5482,41 +5365,41 @@ END GROUP
  .ARM.attributes
                 0x000000000000008a       0x2e ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
  .ARM.attributes
-                0x00000000000000b8       0x2e ./system/src/newlib/sbrk.o
+                0x00000000000000b8       0x2e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .ARM.attributes
-                0x00000000000000e6       0x2e ./system/src/newlib/startup.o
+                0x00000000000000e6       0x2e ./system/src/newlib/sbrk.o
  .ARM.attributes
-                0x0000000000000114       0x2e ./system/src/newlib/syscalls.o
+                0x0000000000000114       0x2e ./system/src/newlib/startup.o
  .ARM.attributes
-                0x0000000000000142       0x2e ./system/src/diag/trace-impl.o
+                0x0000000000000142       0x2e ./system/src/newlib/syscalls.o
  .ARM.attributes
-                0x0000000000000170       0x2e ./system/src/diag/trace.o
+                0x0000000000000170       0x2e ./system/src/diag/trace-impl.o
  .ARM.attributes
-                0x000000000000019e       0x2e ./system/src/cortexm/exception-handlers.o
+                0x000000000000019e       0x2e ./system/src/diag/trace.o
  .ARM.attributes
-                0x00000000000001cc       0x2e ./system/src/cortexm/initialize-hardware.o
+                0x00000000000001cc       0x2e ./system/src/cortexm/exception-handlers.o
  .ARM.attributes
-                0x00000000000001fa       0x2e ./system/src/cmsis/system_stm32f4xx.o
+                0x00000000000001fa       0x2e ./system/src/cortexm/initialize-hardware.o
  .ARM.attributes
-                0x0000000000000228       0x2e ./system/src/cmsis/vectors_stm32f407xx.o
+                0x0000000000000228       0x2e ./system/src/cmsis/system_stm32f4xx.o
  .ARM.attributes
-                0x0000000000000256       0x2e ./src/initialize-hardware.o
+                0x0000000000000256       0x2e ./system/src/cmsis/vectors_stm32f407xx.o
  .ARM.attributes
-                0x0000000000000284       0x2e ./src/led.o
+                0x0000000000000284       0x2e ./src/initialize-hardware.o
  .ARM.attributes
-                0x00000000000002b2       0x2e ./src/main.o
+                0x00000000000002b2       0x2e ./src/led.o
  .ARM.attributes
-                0x00000000000002e0       0x2e ./src/stm32f4xx_hal_msp.o
+                0x00000000000002e0       0x2e ./src/main.o
  .ARM.attributes
-                0x000000000000030e       0x2e ./src/timer.o
+                0x000000000000030e       0x2e ./src/stm32f4xx_hal_msp.o
  .ARM.attributes
-                0x000000000000033c       0x1e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x000000000000033c       0x2e ./src/timer.o
  .ARM.attributes
-                0x000000000000035a       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x000000000000036a       0x1e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .ARM.attributes
-                0x0000000000000388       0x1e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x0000000000000388       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
  .ARM.attributes
-                0x00000000000003a6       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atoi.o)
+                0x00000000000003b6       0x1e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
                 0x00000000000003d4       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-ctype_.o)
  .ARM.attributes
@@ -5524,69 +5407,35 @@ END GROUP
  .ARM.attributes
                 0x0000000000000430       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
  .ARM.attributes
-                0x000000000000045e       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
+                0x000000000000045e       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
  .ARM.attributes
-                0x000000000000048c       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o)
+                0x000000000000048c       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
  .ARM.attributes
-                0x00000000000004ba       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                0x00000000000004ba       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
  .ARM.attributes
-                0x00000000000004e8       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+                0x00000000000004e8       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
  .ARM.attributes
-                0x0000000000000516       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                0x0000000000000516       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
  .ARM.attributes
-                0x0000000000000544       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000000532       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
  .ARM.attributes
-                0x0000000000000572       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-puts.o)
+                0x0000000000000560       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
  .ARM.attributes
-                0x00000000000005a0       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
+                0x000000000000058e       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
  .ARM.attributes
-                0x00000000000005ce       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
+                0x00000000000005bc       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
  .ARM.attributes
-                0x00000000000005fc       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+                0x00000000000005ea       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
  .ARM.attributes
-                0x0000000000000618       0x17 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strlen.o)
+                0x0000000000000618       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memchr.o)
  .ARM.attributes
-                0x000000000000062f       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
+                0x0000000000000634       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
  .ARM.attributes
-                0x000000000000065d       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
+                0x0000000000000662       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memmove.o)
  .ARM.attributes
-                0x000000000000068b       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wbuf.o)
+                0x0000000000000690       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-reallocr.o)
  .ARM.attributes
-                0x00000000000006b9       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
- .ARM.attributes
-                0x00000000000006e7       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wsetup.o)
- .ARM.attributes
-                0x0000000000000715       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
- .ARM.attributes
-                0x0000000000000743       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
- .ARM.attributes
-                0x0000000000000771       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
- .ARM.attributes
-                0x000000000000079f       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o)
- .ARM.attributes
-                0x00000000000007cd       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
- .ARM.attributes
-                0x00000000000007fb       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
- .ARM.attributes
-                0x0000000000000829       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
- .ARM.attributes
-                0x0000000000000857       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
- .ARM.attributes
-                0x0000000000000885       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
- .ARM.attributes
-                0x00000000000008b3       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fstatr.o)
- .ARM.attributes
-                0x00000000000008e1       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-isattyr.o)
- .ARM.attributes
-                0x000000000000090f       0x1c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memchr.o)
- .ARM.attributes
-                0x000000000000092b       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
- .ARM.attributes
-                0x0000000000000959       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memmove.o)
- .ARM.attributes
-                0x0000000000000987       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-reallocr.o)
- .ARM.attributes
-                0x00000000000009b5       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-msizer.o)
+                0x00000000000006be       0x2e c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-msizer.o)
 
 .debug
  *(.debug)
@@ -5600,7 +5449,7 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x0000000000000000      0x6a8
+.debug_aranges  0x0000000000000000      0xa50
  *(.debug_aranges)
  .debug_aranges
                 0x0000000000000000       0xf0 ./system/src/stm32f4-hal/stm32f4xx_hal.o
@@ -5611,211 +5460,203 @@ END GROUP
  .debug_aranges
                 0x00000000000001f0       0x88 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
  .debug_aranges
-                0x0000000000000278       0x20 ./system/src/newlib/sbrk.o
+                0x0000000000000278      0x3a8 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
  .debug_aranges
-                0x0000000000000298       0x40 ./system/src/newlib/startup.o
+                0x0000000000000620       0x20 ./system/src/newlib/sbrk.o
  .debug_aranges
-                0x00000000000002d8      0x120 ./system/src/newlib/syscalls.o
+                0x0000000000000640       0x40 ./system/src/newlib/startup.o
  .debug_aranges
-                0x00000000000003f8       0x30 ./system/src/diag/trace-impl.o
+                0x0000000000000680      0x120 ./system/src/newlib/syscalls.o
  .debug_aranges
-                0x0000000000000428       0x38 ./system/src/diag/trace.o
+                0x00000000000007a0       0x30 ./system/src/diag/trace-impl.o
  .debug_aranges
-                0x0000000000000460       0x90 ./system/src/cortexm/exception-handlers.o
+                0x00000000000007d0       0x38 ./system/src/diag/trace.o
  .debug_aranges
-                0x00000000000004f0       0x28 ./system/src/cortexm/initialize-hardware.o
+                0x0000000000000808       0x90 ./system/src/cortexm/exception-handlers.o
  .debug_aranges
-                0x0000000000000518       0x28 ./system/src/cmsis/system_stm32f4xx.o
+                0x0000000000000898       0x28 ./system/src/cortexm/initialize-hardware.o
  .debug_aranges
-                0x0000000000000540       0x20 ./system/src/cmsis/vectors_stm32f407xx.o
+                0x00000000000008c0       0x28 ./system/src/cmsis/system_stm32f4xx.o
  .debug_aranges
-                0x0000000000000560       0x30 ./src/initialize-hardware.o
+                0x00000000000008e8       0x20 ./system/src/cmsis/vectors_stm32f407xx.o
  .debug_aranges
-                0x0000000000000590       0x48 ./src/led.o
+                0x0000000000000908       0x30 ./src/initialize-hardware.o
  .debug_aranges
-                0x00000000000005d8       0x60 ./src/main.o
+                0x0000000000000938       0x48 ./src/led.o
  .debug_aranges
-                0x0000000000000638       0x38 ./src/stm32f4xx_hal_msp.o
+                0x0000000000000980       0x60 ./src/main.o
  .debug_aranges
-                0x0000000000000670       0x38 ./src/timer.o
+                0x00000000000009e0       0x38 ./src/stm32f4xx_hal_msp.o
+ .debug_aranges
+                0x0000000000000a18       0x38 ./src/timer.o
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x0000000000000000     0xadba
+.debug_info     0x0000000000000000     0xeebe
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x0000000000000000      0xa37 ./system/src/stm32f4-hal/stm32f4xx_hal.o
  .debug_info    0x0000000000000a37     0x1340 ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
  .debug_info    0x0000000000001d77      0x930 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .debug_info    0x00000000000026a7      0xda2 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
- .debug_info    0x0000000000003449      0x112 ./system/src/newlib/sbrk.o
- .debug_info    0x000000000000355b      0x57f ./system/src/newlib/startup.o
- .debug_info    0x0000000000003ada     0x22f4 ./system/src/newlib/syscalls.o
- .debug_info    0x0000000000005dce      0x320 ./system/src/diag/trace-impl.o
- .debug_info    0x00000000000060ee      0x30b ./system/src/diag/trace.o
- .debug_info    0x00000000000063f9      0xa4f ./system/src/cortexm/exception-handlers.o
- .debug_info    0x0000000000006e48      0x2cb ./system/src/cortexm/initialize-hardware.o
- .debug_info    0x0000000000007113      0x53c ./system/src/cmsis/system_stm32f4xx.o
- .debug_info    0x000000000000764f       0xce ./system/src/cmsis/vectors_stm32f407xx.o
- .debug_info    0x000000000000771d      0x59b ./src/initialize-hardware.o
- .debug_info    0x0000000000007cb8      0x60a ./src/led.o
- .debug_info    0x00000000000082c2     0x21fc ./src/main.o
- .debug_info    0x000000000000a4be       0xbf ./src/stm32f4xx_hal_msp.o
- .debug_info    0x000000000000a57d      0x83d ./src/timer.o
+ .debug_info    0x0000000000003449     0x4c37 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+ .debug_info    0x0000000000008080      0x112 ./system/src/newlib/sbrk.o
+ .debug_info    0x0000000000008192      0x57f ./system/src/newlib/startup.o
+ .debug_info    0x0000000000008711     0x22f4 ./system/src/newlib/syscalls.o
+ .debug_info    0x000000000000aa05      0x320 ./system/src/diag/trace-impl.o
+ .debug_info    0x000000000000ad25      0x30b ./system/src/diag/trace.o
+ .debug_info    0x000000000000b030      0xa4f ./system/src/cortexm/exception-handlers.o
+ .debug_info    0x000000000000ba7f      0x2cb ./system/src/cortexm/initialize-hardware.o
+ .debug_info    0x000000000000bd4a      0x53c ./system/src/cmsis/system_stm32f4xx.o
+ .debug_info    0x000000000000c286       0xce ./system/src/cmsis/vectors_stm32f407xx.o
+ .debug_info    0x000000000000c354      0x59b ./src/initialize-hardware.o
+ .debug_info    0x000000000000c8ef      0x60a ./src/led.o
+ .debug_info    0x000000000000cef9     0x16c9 ./src/main.o
+ .debug_info    0x000000000000e5c2       0xbf ./src/stm32f4xx_hal_msp.o
+ .debug_info    0x000000000000e681      0x83d ./src/timer.o
 
-.debug_abbrev   0x0000000000000000     0x2716
+.debug_abbrev   0x0000000000000000     0x2824
  *(.debug_abbrev)
  .debug_abbrev  0x0000000000000000      0x209 ./system/src/stm32f4-hal/stm32f4xx_hal.o
  .debug_abbrev  0x0000000000000209      0x38a ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
  .debug_abbrev  0x0000000000000593      0x22e ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .debug_abbrev  0x00000000000007c1      0x2a0 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
- .debug_abbrev  0x0000000000000a61       0xcd ./system/src/newlib/sbrk.o
- .debug_abbrev  0x0000000000000b2e      0x1fa ./system/src/newlib/startup.o
- .debug_abbrev  0x0000000000000d28      0x499 ./system/src/newlib/syscalls.o
- .debug_abbrev  0x00000000000011c1      0x1eb ./system/src/diag/trace-impl.o
- .debug_abbrev  0x00000000000013ac      0x173 ./system/src/diag/trace.o
- .debug_abbrev  0x000000000000151f      0x2ba ./system/src/cortexm/exception-handlers.o
- .debug_abbrev  0x00000000000017d9       0xe9 ./system/src/cortexm/initialize-hardware.o
- .debug_abbrev  0x00000000000018c2      0x11c ./system/src/cmsis/system_stm32f4xx.o
- .debug_abbrev  0x00000000000019de       0xa5 ./system/src/cmsis/vectors_stm32f407xx.o
- .debug_abbrev  0x0000000000001a83      0x170 ./src/initialize-hardware.o
- .debug_abbrev  0x0000000000001bf3      0x235 ./src/led.o
- .debug_abbrev  0x0000000000001e28      0x5aa ./src/main.o
- .debug_abbrev  0x00000000000023d2       0x47 ./src/stm32f4xx_hal_msp.o
- .debug_abbrev  0x0000000000002419      0x2fd ./src/timer.o
+ .debug_abbrev  0x0000000000000a61      0x22e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+ .debug_abbrev  0x0000000000000c8f       0xcd ./system/src/newlib/sbrk.o
+ .debug_abbrev  0x0000000000000d5c      0x1fa ./system/src/newlib/startup.o
+ .debug_abbrev  0x0000000000000f56      0x499 ./system/src/newlib/syscalls.o
+ .debug_abbrev  0x00000000000013ef      0x1eb ./system/src/diag/trace-impl.o
+ .debug_abbrev  0x00000000000015da      0x173 ./system/src/diag/trace.o
+ .debug_abbrev  0x000000000000174d      0x2ba ./system/src/cortexm/exception-handlers.o
+ .debug_abbrev  0x0000000000001a07       0xe9 ./system/src/cortexm/initialize-hardware.o
+ .debug_abbrev  0x0000000000001af0      0x11c ./system/src/cmsis/system_stm32f4xx.o
+ .debug_abbrev  0x0000000000001c0c       0xa5 ./system/src/cmsis/vectors_stm32f407xx.o
+ .debug_abbrev  0x0000000000001cb1      0x170 ./src/initialize-hardware.o
+ .debug_abbrev  0x0000000000001e21      0x235 ./src/led.o
+ .debug_abbrev  0x0000000000002056      0x48a ./src/main.o
+ .debug_abbrev  0x00000000000024e0       0x47 ./src/stm32f4xx_hal_msp.o
+ .debug_abbrev  0x0000000000002527      0x2fd ./src/timer.o
 
-.debug_line     0x0000000000000000     0xd865
+.debug_line     0x0000000000000000    0x13278
  *(.debug_line)
  .debug_line    0x0000000000000000      0xd9a ./system/src/stm32f4-hal/stm32f4xx_hal.o
  .debug_line    0x0000000000000d9a     0x10e2 ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
  .debug_line    0x0000000000001e7c     0x10b8 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .debug_line    0x0000000000002f34     0x147d ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
- .debug_line    0x00000000000043b1      0x3f7 ./system/src/newlib/sbrk.o
- .debug_line    0x00000000000047a8      0x6ec ./system/src/newlib/startup.o
- .debug_line    0x0000000000004e94     0x11c4 ./system/src/newlib/syscalls.o
- .debug_line    0x0000000000006058      0xc4b ./system/src/diag/trace-impl.o
- .debug_line    0x0000000000006ca3      0x4ea ./system/src/diag/trace.o
- .debug_line    0x000000000000718d      0xfb9 ./system/src/cortexm/exception-handlers.o
- .debug_line    0x0000000000008146      0xa62 ./system/src/cortexm/initialize-hardware.o
- .debug_line    0x0000000000008ba8      0xaf4 ./system/src/cmsis/system_stm32f4xx.o
- .debug_line    0x000000000000969c      0x2fa ./system/src/cmsis/vectors_stm32f407xx.o
- .debug_line    0x0000000000009996      0xc0f ./src/initialize-hardware.o
- .debug_line    0x000000000000a5a5      0xb87 ./src/led.o
- .debug_line    0x000000000000b12c     0x11c8 ./src/main.o
- .debug_line    0x000000000000c2f4      0xa52 ./src/stm32f4xx_hal_msp.o
- .debug_line    0x000000000000cd46      0xb1f ./src/timer.o
+ .debug_line    0x00000000000043b1     0x5bf6 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+ .debug_line    0x0000000000009fa7      0x3f7 ./system/src/newlib/sbrk.o
+ .debug_line    0x000000000000a39e      0x6ec ./system/src/newlib/startup.o
+ .debug_line    0x000000000000aa8a     0x11c4 ./system/src/newlib/syscalls.o
+ .debug_line    0x000000000000bc4e      0xc4b ./system/src/diag/trace-impl.o
+ .debug_line    0x000000000000c899      0x4ea ./system/src/diag/trace.o
+ .debug_line    0x000000000000cd83      0xfb9 ./system/src/cortexm/exception-handlers.o
+ .debug_line    0x000000000000dd3c      0xa62 ./system/src/cortexm/initialize-hardware.o
+ .debug_line    0x000000000000e79e      0xaf4 ./system/src/cmsis/system_stm32f4xx.o
+ .debug_line    0x000000000000f292      0x2fa ./system/src/cmsis/vectors_stm32f407xx.o
+ .debug_line    0x000000000000f58c      0xc0f ./src/initialize-hardware.o
+ .debug_line    0x000000000001019b      0xb87 ./src/led.o
+ .debug_line    0x0000000000010d22      0xfe5 ./src/main.o
+ .debug_line    0x0000000000011d07      0xa52 ./src/stm32f4xx_hal_msp.o
+ .debug_line    0x0000000000012759      0xb1f ./src/timer.o
 
-.debug_frame    0x0000000000000000     0x1980
+.debug_frame    0x0000000000000000     0x2044
  *(.debug_frame)
  .debug_frame   0x0000000000000000      0x1f0 ./system/src/stm32f4-hal/stm32f4xx_hal.o
  .debug_frame   0x00000000000001f0      0x19c ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
  .debug_frame   0x000000000000038c       0xfc ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .debug_frame   0x0000000000000488      0x16c ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
- .debug_frame   0x00000000000005f4       0x28 ./system/src/newlib/sbrk.o
- .debug_frame   0x000000000000061c       0x7c ./system/src/newlib/startup.o
- .debug_frame   0x0000000000000698      0x3d8 ./system/src/newlib/syscalls.o
- .debug_frame   0x0000000000000a70       0x64 ./system/src/diag/trace-impl.o
- .debug_frame   0x0000000000000ad4       0x94 ./system/src/diag/trace.o
- .debug_frame   0x0000000000000b68      0x164 ./system/src/cortexm/exception-handlers.o
- .debug_frame   0x0000000000000ccc       0x40 ./system/src/cortexm/initialize-hardware.o
- .debug_frame   0x0000000000000d0c       0x30 ./system/src/cmsis/system_stm32f4xx.o
- .debug_frame   0x0000000000000d3c       0x20 ./system/src/cmsis/vectors_stm32f407xx.o
- .debug_frame   0x0000000000000d5c       0x60 ./src/initialize-hardware.o
- .debug_frame   0x0000000000000dbc       0x80 ./src/led.o
- .debug_frame   0x0000000000000e3c      0x114 ./src/main.o
- .debug_frame   0x0000000000000f50       0x50 ./src/stm32f4xx_hal_msp.o
- .debug_frame   0x0000000000000fa0       0x58 ./src/timer.o
- .debug_frame   0x0000000000000ff8       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x0000000000001024       0x34 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
- .debug_frame   0x0000000000001058       0x30 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-atoi.o)
- .debug_frame   0x0000000000001088       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
- .debug_frame   0x00000000000010a8      0x14c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
- .debug_frame   0x00000000000011f4       0x54 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwalk.o)
- .debug_frame   0x0000000000001248       0x4c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fwrite.o)
- .debug_frame   0x0000000000001294       0xb0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
- .debug_frame   0x0000000000001344       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
- .debug_frame   0x0000000000001364       0x30 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
- .debug_frame   0x0000000000001394       0x3c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-puts.o)
- .debug_frame   0x00000000000013d0       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
- .debug_frame   0x00000000000013fc       0x88 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-stdio.o)
- .debug_frame   0x0000000000001484       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
- .debug_frame   0x00000000000014a4       0x64 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strtol.o)
- .debug_frame   0x0000000000001508       0x4c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
- .debug_frame   0x0000000000001554       0x40 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wbuf.o)
- .debug_frame   0x0000000000001594       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-writer.o)
- .debug_frame   0x00000000000015c0       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-wsetup.o)
- .debug_frame   0x00000000000015ec       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-closer.o)
- .debug_frame   0x0000000000001618       0x5c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fflush.o)
- .debug_frame   0x0000000000001674       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lseekr.o)
- .debug_frame   0x00000000000016a0       0x58 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-makebuf.o)
- .debug_frame   0x00000000000016f8       0x30 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
- .debug_frame   0x0000000000001728       0x38 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
- .debug_frame   0x0000000000001760       0x90 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
- .debug_frame   0x00000000000017f0       0x60 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_frame   0x0000000000001850       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-readr.o)
- .debug_frame   0x000000000000187c       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-fstatr.o)
- .debug_frame   0x00000000000018a8       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-isattyr.o)
- .debug_frame   0x00000000000018d4       0x28 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
- .debug_frame   0x00000000000018fc       0x28 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memmove.o)
- .debug_frame   0x0000000000001924       0x3c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-reallocr.o)
- .debug_frame   0x0000000000001960       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00000000000005f4      0xb14 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+ .debug_frame   0x0000000000001108       0x28 ./system/src/newlib/sbrk.o
+ .debug_frame   0x0000000000001130       0x7c ./system/src/newlib/startup.o
+ .debug_frame   0x00000000000011ac      0x3d8 ./system/src/newlib/syscalls.o
+ .debug_frame   0x0000000000001584       0x64 ./system/src/diag/trace-impl.o
+ .debug_frame   0x00000000000015e8       0x94 ./system/src/diag/trace.o
+ .debug_frame   0x000000000000167c      0x164 ./system/src/cortexm/exception-handlers.o
+ .debug_frame   0x00000000000017e0       0x40 ./system/src/cortexm/initialize-hardware.o
+ .debug_frame   0x0000000000001820       0x30 ./system/src/cmsis/system_stm32f4xx.o
+ .debug_frame   0x0000000000001850       0x20 ./system/src/cmsis/vectors_stm32f407xx.o
+ .debug_frame   0x0000000000001870       0x60 ./src/initialize-hardware.o
+ .debug_frame   0x00000000000018d0       0x80 ./src/led.o
+ .debug_frame   0x0000000000001950      0x104 ./src/main.o
+ .debug_frame   0x0000000000001a54       0x50 ./src/stm32f4xx_hal_msp.o
+ .debug_frame   0x0000000000001aa4       0x58 ./src/timer.o
+ .debug_frame   0x0000000000001afc       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000001b28       0x34 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000001b5c       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000001b7c      0x14c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000001cc8       0xb0 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-lock.o)
+ .debug_frame   0x0000000000001d78       0x30 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000001da8       0x2c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000001dd4       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x0000000000001df4       0x4c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-vsnprintf.o)
+ .debug_frame   0x0000000000001e40       0x30 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000001e70       0x38 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000001ea8       0x90 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x0000000000001f38       0x60 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000000000001f98       0x28 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000001fc0       0x28 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x0000000000001fe8       0x3c c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000002024       0x20 c:/users/simas/appdata/roaming/xpacks/@xpack-dev-tools/arm-none-eabi-gcc/10.2.1-1.1.2/.content/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-nano-msizer.o)
 
-.debug_str      0x0000000000000000    0xf9e6c
+.debug_str      0x0000000000000000    0xfab16
  *(.debug_str)
  .debug_str     0x0000000000000000    0xeebac ./system/src/stm32f4-hal/stm32f4xx_hal.o
                                       0xeef5b (size before relaxing)
  .debug_str     0x00000000000eebac      0x38b ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
                                       0xeec9a (size before relaxing)
- .debug_str     0x00000000000eef37      0x25f ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
+ .debug_str     0x00000000000eef37      0x251 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
                                       0xee5f7 (size before relaxing)
- .debug_str     0x00000000000ef196      0x3b2 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
+ .debug_str     0x00000000000ef188      0x3b2 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
                                       0xee814 (size before relaxing)
- .debug_str     0x00000000000ef548     0x3590 ./system/src/newlib/sbrk.o
+ .debug_str     0x00000000000ef53a     0x10a4 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+                                      0xef517 (size before relaxing)
+ .debug_str     0x00000000000f05de     0x3590 ./system/src/newlib/sbrk.o
                                        0x6b48 (size before relaxing)
- .debug_str     0x00000000000f2ad8      0x2cb ./system/src/newlib/startup.o
+ .debug_str     0x00000000000f3b6e      0x2cb ./system/src/newlib/startup.o
                                        0x6372 (size before relaxing)
- .debug_str     0x00000000000f2da3     0x3f6a ./system/src/newlib/syscalls.o
+ .debug_str     0x00000000000f3e39     0x3f75 ./system/src/newlib/syscalls.o
                                        0xb5bf (size before relaxing)
- .debug_str     0x00000000000f6d0d       0xbd ./system/src/diag/trace-impl.o
+ .debug_str     0x00000000000f7dae       0xbd ./system/src/diag/trace-impl.o
                                       0xf162b (size before relaxing)
- .debug_str     0x00000000000f6dca      0x162 ./system/src/diag/trace.o
+ .debug_str     0x00000000000f7e6b      0x162 ./system/src/diag/trace.o
                                        0x7eee (size before relaxing)
- .debug_str     0x00000000000f6f2c      0x1dc ./system/src/cortexm/exception-handlers.o
+ .debug_str     0x00000000000f7fcd      0x1dc ./system/src/cortexm/exception-handlers.o
                                       0xf2821 (size before relaxing)
- .debug_str     0x00000000000f7108       0x5d ./system/src/cortexm/initialize-hardware.o
+ .debug_str     0x00000000000f81a9       0x5d ./system/src/cortexm/initialize-hardware.o
                                       0xee2fa (size before relaxing)
- .debug_str     0x00000000000f7165       0x46 ./system/src/cmsis/system_stm32f4xx.o
+ .debug_str     0x00000000000f8206       0x46 ./system/src/cmsis/system_stm32f4xx.o
                                       0xee3e8 (size before relaxing)
- .debug_str     0x00000000000f71ab       0x59 ./system/src/cmsis/vectors_stm32f407xx.o
+ .debug_str     0x00000000000f824c       0x59 ./system/src/cmsis/vectors_stm32f407xx.o
                                        0x3ced (size before relaxing)
- .debug_str     0x00000000000f7204       0x30 ./src/initialize-hardware.o
+ .debug_str     0x00000000000f82a5       0x30 ./src/initialize-hardware.o
                                       0xf15c5 (size before relaxing)
- .debug_str     0x00000000000f7234      0x77c ./src/led.o
+ .debug_str     0x00000000000f82d5      0x77c ./src/led.o
                                       0xee8c1 (size before relaxing)
- .debug_str     0x00000000000f79b0     0x2425 ./src/main.o
-                                      0xf57ee (size before relaxing)
- .debug_str     0x00000000000f9dd5       0x3d ./src/stm32f4xx_hal_msp.o
+ .debug_str     0x00000000000f8a51     0x202e ./src/main.o
+                                      0xf53d8 (size before relaxing)
+ .debug_str     0x00000000000faa7f       0x3d ./src/stm32f4xx_hal_msp.o
                                       0xee225 (size before relaxing)
- .debug_str     0x00000000000f9e12       0x5a ./src/timer.o
+ .debug_str     0x00000000000faabc       0x5a ./src/timer.o
                                       0xeed13 (size before relaxing)
 
-.debug_loc      0x0000000000000000     0x3c8a
+.debug_loc      0x0000000000000000     0x68a5
  *(.debug_loc)
  .debug_loc     0x0000000000000000      0x130 ./system/src/stm32f4-hal/stm32f4xx_hal.o
  .debug_loc     0x0000000000000130      0x92e ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
  .debug_loc     0x0000000000000a5e      0x66d ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .debug_loc     0x00000000000010cb      0x56f ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
- .debug_loc     0x000000000000163a       0x97 ./system/src/newlib/sbrk.o
- .debug_loc     0x00000000000016d1      0x49b ./system/src/newlib/startup.o
- .debug_loc     0x0000000000001b6c     0x1427 ./system/src/newlib/syscalls.o
- .debug_loc     0x0000000000002f93      0x194 ./system/src/diag/trace-impl.o
- .debug_loc     0x0000000000003127      0x118 ./system/src/diag/trace.o
- .debug_loc     0x000000000000323f      0x524 ./system/src/cortexm/exception-handlers.o
- .debug_loc     0x0000000000003763      0x158 ./system/src/cmsis/system_stm32f4xx.o
- .debug_loc     0x00000000000038bb       0x64 ./src/initialize-hardware.o
- .debug_loc     0x000000000000391f       0xba ./src/led.o
- .debug_loc     0x00000000000039d9      0x24e ./src/main.o
- .debug_loc     0x0000000000003c27       0x63 ./src/timer.o
+ .debug_loc     0x000000000000163a     0x2d8e ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+ .debug_loc     0x00000000000043c8       0x97 ./system/src/newlib/sbrk.o
+ .debug_loc     0x000000000000445f      0x49b ./system/src/newlib/startup.o
+ .debug_loc     0x00000000000048fa     0x1427 ./system/src/newlib/syscalls.o
+ .debug_loc     0x0000000000005d21      0x194 ./system/src/diag/trace-impl.o
+ .debug_loc     0x0000000000005eb5      0x118 ./system/src/diag/trace.o
+ .debug_loc     0x0000000000005fcd      0x524 ./system/src/cortexm/exception-handlers.o
+ .debug_loc     0x00000000000064f1      0x158 ./system/src/cmsis/system_stm32f4xx.o
+ .debug_loc     0x0000000000006649       0x64 ./src/initialize-hardware.o
+ .debug_loc     0x00000000000066ad       0xba ./src/led.o
+ .debug_loc     0x0000000000006767       0xdb ./src/main.o
+ .debug_loc     0x0000000000006842       0x63 ./src/timer.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -5834,27 +5675,28 @@ END GROUP
 OUTPUT(Valdikliu_programavimas.elf elf32-littlearm)
 LOAD linker stubs
 
-.debug_ranges   0x0000000000000000      0x6c0
+.debug_ranges   0x0000000000000000      0xa40
  .debug_ranges  0x0000000000000000       0xe0 ./system/src/stm32f4-hal/stm32f4xx_hal.o
  .debug_ranges  0x00000000000000e0      0x128 ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
  .debug_ranges  0x0000000000000208       0x48 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .debug_ranges  0x0000000000000250       0x90 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
- .debug_ranges  0x00000000000002e0       0x10 ./system/src/newlib/sbrk.o
- .debug_ranges  0x00000000000002f0       0x78 ./system/src/newlib/startup.o
- .debug_ranges  0x0000000000000368      0x128 ./system/src/newlib/syscalls.o
- .debug_ranges  0x0000000000000490       0x38 ./system/src/diag/trace-impl.o
- .debug_ranges  0x00000000000004c8       0x28 ./system/src/diag/trace.o
- .debug_ranges  0x00000000000004f0       0x80 ./system/src/cortexm/exception-handlers.o
- .debug_ranges  0x0000000000000570       0x18 ./system/src/cortexm/initialize-hardware.o
- .debug_ranges  0x0000000000000588       0x18 ./system/src/cmsis/system_stm32f4xx.o
- .debug_ranges  0x00000000000005a0       0x10 ./system/src/cmsis/vectors_stm32f407xx.o
- .debug_ranges  0x00000000000005b0       0x20 ./src/initialize-hardware.o
- .debug_ranges  0x00000000000005d0       0x38 ./src/led.o
- .debug_ranges  0x0000000000000608       0x68 ./src/main.o
- .debug_ranges  0x0000000000000670       0x28 ./src/stm32f4xx_hal_msp.o
- .debug_ranges  0x0000000000000698       0x28 ./src/timer.o
+ .debug_ranges  0x00000000000002e0      0x398 ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+ .debug_ranges  0x0000000000000678       0x10 ./system/src/newlib/sbrk.o
+ .debug_ranges  0x0000000000000688       0x78 ./system/src/newlib/startup.o
+ .debug_ranges  0x0000000000000700      0x128 ./system/src/newlib/syscalls.o
+ .debug_ranges  0x0000000000000828       0x38 ./system/src/diag/trace-impl.o
+ .debug_ranges  0x0000000000000860       0x28 ./system/src/diag/trace.o
+ .debug_ranges  0x0000000000000888       0x80 ./system/src/cortexm/exception-handlers.o
+ .debug_ranges  0x0000000000000908       0x18 ./system/src/cortexm/initialize-hardware.o
+ .debug_ranges  0x0000000000000920       0x18 ./system/src/cmsis/system_stm32f4xx.o
+ .debug_ranges  0x0000000000000938       0x10 ./system/src/cmsis/vectors_stm32f407xx.o
+ .debug_ranges  0x0000000000000948       0x20 ./src/initialize-hardware.o
+ .debug_ranges  0x0000000000000968       0x38 ./src/led.o
+ .debug_ranges  0x00000000000009a0       0x50 ./src/main.o
+ .debug_ranges  0x00000000000009f0       0x28 ./src/stm32f4xx_hal_msp.o
+ .debug_ranges  0x0000000000000a18       0x28 ./src/timer.o
 
-.debug_macro    0x0000000000000000    0x2a910
+.debug_macro    0x0000000000000000    0x2acf6
  .debug_macro   0x0000000000000000      0x44c ./system/src/stm32f4-hal/stm32f4xx_hal.o
  .debug_macro   0x000000000000044c      0xa84 ./system/src/stm32f4-hal/stm32f4xx_hal.o
  .debug_macro   0x0000000000000ed0      0x3a2 ./system/src/stm32f4-hal/stm32f4xx_hal.o
@@ -5935,56 +5777,57 @@ LOAD linker stubs
  .debug_macro   0x0000000000023ac8      0x3ec ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o
  .debug_macro   0x0000000000023eb4      0x422 ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o
  .debug_macro   0x00000000000242d6      0x410 ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o
- .debug_macro   0x00000000000246e6      0x163 ./system/src/newlib/sbrk.o
- .debug_macro   0x0000000000024849       0x10 ./system/src/newlib/sbrk.o
- .debug_macro   0x0000000000024859      0x23b ./system/src/newlib/sbrk.o
- .debug_macro   0x0000000000024a94      0x174 ./system/src/newlib/startup.o
- .debug_macro   0x0000000000024c08      0xa8a ./system/src/newlib/startup.o
- .debug_macro   0x0000000000025692       0x6a ./system/src/newlib/startup.o
- .debug_macro   0x00000000000256fc      0x2dd ./system/src/newlib/syscalls.o
- .debug_macro   0x00000000000259d9       0x10 ./system/src/newlib/syscalls.o
- .debug_macro   0x00000000000259e9       0x10 ./system/src/newlib/syscalls.o
- .debug_macro   0x00000000000259f9       0x10 ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025a09       0x35 ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025a3e      0x12c ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025b6a      0x22a ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025d94       0x10 ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025da4       0x1c ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025dc0       0x10 ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025dd0       0x10 ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025de0       0x16 ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025df6      0x16f ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025f65       0x16 ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000025f7b       0xce ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000026049      0x241 ./system/src/newlib/syscalls.o
- .debug_macro   0x000000000002628a       0x16 ./system/src/newlib/syscalls.o
- .debug_macro   0x00000000000262a0       0x3a ./system/src/newlib/syscalls.o
- .debug_macro   0x00000000000262da      0x11f ./system/src/newlib/syscalls.o
- .debug_macro   0x00000000000263f9      0x189 ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000026582       0x16 ./system/src/newlib/syscalls.o
- .debug_macro   0x0000000000026598       0x22 ./system/src/newlib/syscalls.o
- .debug_macro   0x00000000000265ba      0x522 ./system/src/diag/trace-impl.o
- .debug_macro   0x0000000000026adc       0x10 ./system/src/diag/trace-impl.o
- .debug_macro   0x0000000000026aec      0x1f5 ./system/src/diag/trace.o
- .debug_macro   0x0000000000026ce1       0x16 ./system/src/diag/trace.o
- .debug_macro   0x0000000000026cf7       0x97 ./system/src/diag/trace.o
- .debug_macro   0x0000000000026d8e       0xfd ./system/src/diag/trace.o
- .debug_macro   0x0000000000026e8b       0x4c ./system/src/diag/trace.o
- .debug_macro   0x0000000000026ed7      0x595 ./system/src/cortexm/exception-handlers.o
- .debug_macro   0x000000000002746c       0x10 ./system/src/cortexm/exception-handlers.o
- .debug_macro   0x000000000002747c      0x3f6 ./system/src/cortexm/initialize-hardware.o
- .debug_macro   0x0000000000027872      0x3f2 ./system/src/cmsis/system_stm32f4xx.o
- .debug_macro   0x0000000000027c64       0x73 ./system/src/cmsis/vectors_stm32f407xx.o
- .debug_macro   0x0000000000027cd7      0x507 ./src/initialize-hardware.o
- .debug_macro   0x00000000000281de      0x40d ./src/led.o
- .debug_macro   0x00000000000285eb       0x1c ./src/led.o
- .debug_macro   0x0000000000028607     0x102d ./src/led.o
- .debug_macro   0x0000000000029634      0x17b ./src/led.o
- .debug_macro   0x00000000000297af      0x631 ./src/main.o
- .debug_macro   0x0000000000029de0       0x97 ./src/main.o
- .debug_macro   0x0000000000029e77      0x104 ./src/main.o
- .debug_macro   0x0000000000029f7b      0x137 ./src/main.o
- .debug_macro   0x000000000002a0b2       0x54 ./src/main.o
- .debug_macro   0x000000000002a106      0x3ec ./src/stm32f4xx_hal_msp.o
- .debug_macro   0x000000000002a4f2      0x40e ./src/timer.o
- .debug_macro   0x000000000002a900       0x10 ./src/timer.o
+ .debug_macro   0x00000000000246e6      0x3ed ./system/src/stm32f4-hal/stm32f4xx_hal_tim.o
+ .debug_macro   0x0000000000024ad3      0x163 ./system/src/newlib/sbrk.o
+ .debug_macro   0x0000000000024c36       0x10 ./system/src/newlib/sbrk.o
+ .debug_macro   0x0000000000024c46      0x23b ./system/src/newlib/sbrk.o
+ .debug_macro   0x0000000000024e81      0x174 ./system/src/newlib/startup.o
+ .debug_macro   0x0000000000024ff5      0xa8a ./system/src/newlib/startup.o
+ .debug_macro   0x0000000000025a7f       0x6a ./system/src/newlib/startup.o
+ .debug_macro   0x0000000000025ae9      0x2dd ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000025dc6       0x10 ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000025dd6       0x10 ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000025de6       0x10 ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000025df6       0x35 ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000025e2b      0x12c ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000025f57      0x22a ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000026181       0x10 ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000026191       0x1c ./system/src/newlib/syscalls.o
+ .debug_macro   0x00000000000261ad       0x10 ./system/src/newlib/syscalls.o
+ .debug_macro   0x00000000000261bd       0x10 ./system/src/newlib/syscalls.o
+ .debug_macro   0x00000000000261cd       0x16 ./system/src/newlib/syscalls.o
+ .debug_macro   0x00000000000261e3      0x16f ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000026352       0x16 ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000026368       0xce ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000026436      0x241 ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000026677       0x16 ./system/src/newlib/syscalls.o
+ .debug_macro   0x000000000002668d       0x3a ./system/src/newlib/syscalls.o
+ .debug_macro   0x00000000000266c7      0x11f ./system/src/newlib/syscalls.o
+ .debug_macro   0x00000000000267e6      0x189 ./system/src/newlib/syscalls.o
+ .debug_macro   0x000000000002696f       0x16 ./system/src/newlib/syscalls.o
+ .debug_macro   0x0000000000026985       0x22 ./system/src/newlib/syscalls.o
+ .debug_macro   0x00000000000269a7      0x522 ./system/src/diag/trace-impl.o
+ .debug_macro   0x0000000000026ec9       0x10 ./system/src/diag/trace-impl.o
+ .debug_macro   0x0000000000026ed9      0x1f5 ./system/src/diag/trace.o
+ .debug_macro   0x00000000000270ce       0x16 ./system/src/diag/trace.o
+ .debug_macro   0x00000000000270e4       0x97 ./system/src/diag/trace.o
+ .debug_macro   0x000000000002717b       0xfd ./system/src/diag/trace.o
+ .debug_macro   0x0000000000027278       0x4c ./system/src/diag/trace.o
+ .debug_macro   0x00000000000272c4      0x595 ./system/src/cortexm/exception-handlers.o
+ .debug_macro   0x0000000000027859       0x10 ./system/src/cortexm/exception-handlers.o
+ .debug_macro   0x0000000000027869      0x3f6 ./system/src/cortexm/initialize-hardware.o
+ .debug_macro   0x0000000000027c5f      0x3f2 ./system/src/cmsis/system_stm32f4xx.o
+ .debug_macro   0x0000000000028051       0x73 ./system/src/cmsis/vectors_stm32f407xx.o
+ .debug_macro   0x00000000000280c4      0x507 ./src/initialize-hardware.o
+ .debug_macro   0x00000000000285cb      0x40d ./src/led.o
+ .debug_macro   0x00000000000289d8       0x1c ./src/led.o
+ .debug_macro   0x00000000000289f4     0x102d ./src/led.o
+ .debug_macro   0x0000000000029a21      0x17b ./src/led.o
+ .debug_macro   0x0000000000029b9c      0x62a ./src/main.o
+ .debug_macro   0x000000000002a1c6       0x97 ./src/main.o
+ .debug_macro   0x000000000002a25d      0x104 ./src/main.o
+ .debug_macro   0x000000000002a361      0x137 ./src/main.o
+ .debug_macro   0x000000000002a498       0x54 ./src/main.o
+ .debug_macro   0x000000000002a4ec      0x3ec ./src/stm32f4xx_hal_msp.o
+ .debug_macro   0x000000000002a8d8      0x40e ./src/timer.o
+ .debug_macro   0x000000000002ace6       0x10 ./src/timer.o
