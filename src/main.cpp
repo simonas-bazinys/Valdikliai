@@ -201,8 +201,8 @@ void initializeLED2()
 	__GPIOD_CLK_ENABLE();
 
 		GPIO_InitTypeDef GPIO_InitStructure2;
-		GPIO_InitStructure2.Pin = GPIO_PIN_15; //blue
-		GPIO_InitStructure2.Mode = GPIO_MODE_AF_PP;
+		GPIO_InitStructure2.Pin = GPIO_PIN_13; //blue
+		GPIO_InitStructure2.Mode = GPIO_MODE_OUTPUT_PP;
 		GPIO_InitStructure2.Pull = GPIO_NOPULL;
 
 		GPIO_InitStructure2.Speed = GPIO_SPEED_LOW;
@@ -246,7 +246,7 @@ int
 main(int argc, char* argv[])
 {
 	  HAL_Init();
-	  initializeLED();
+	  initializeLED2();
 	  initializeTimer();
 	  InitializeTimerPWM(0);
 
@@ -259,10 +259,16 @@ main(int argc, char* argv[])
 		  if (i == 100) flag = 1;
 		  if (i == 0) flag = 0;
 
-		  if (flag == 0) i++;
-		  if (flag == 1) i--;
+		  HAL_GPIO_WritePin(GPIOD, GPIO_PIN_13, GPIO_PIN_SET);
 
-		  HAL_Delay(10);
+		  if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_0) == GPIO_PIN_SET)
+		  {
+			  if (flag == 0) i++;
+		  	  if (flag == 1) i--;
+		  	HAL_GPIO_WritePin(GPIOD, GPIO_PIN_13, GPIO_PIN_SET);
+		  	HAL_Delay(50);
+		  }
+		  else  HAL_GPIO_WritePin(GPIOD, GPIO_PIN_13, GPIO_PIN_RESET);
 	  }
 
 	  return 0;}
